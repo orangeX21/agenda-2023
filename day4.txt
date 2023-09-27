@@ -1,0 +1,3150 @@
+
+
+
+
+RESET
+
+DAY
+1
+Sunday
+15 October
+DAY
+2
+Monday
+16 October
+DAY
+3
+Tuesday
+17 October
+DAY
+4
+Wednesday
+18 October
+DAY
+5
+Thursday
+19 October
+DAY
+6
+Friday
+20 October
+9:00 AM - 5:00 PM
+October 18, 2023 | 480 Minutes
+PAID
+Certified TrainingsHall 29, Workshop Room B Global DevslamDubai World Trade Centre
+Certified Metaverse Developer Course
+
+Course Methodology: Instructor-led – Onsite
+
+Course Objectives:
+• Know what it means to be a Metaverse Expert
+• Explore various technologies involved in Metaverse
+• Learn how you can get started with Metaverse
+• Explore different Use Cases of Metaverse
+
+Access Includes:
+3 days Certified Metaverse Expert Training +
+All Access Conference Pass Benefits + Parking
+
+Target Audience: Open to all. Designed for highly motivated
+attendees with little or no prior experience in programming.
+Certification/Exam: Certificate provided by Blockchain Council after the exam
+
+Course Outline/ Agenda:
+• Introduction to Metaverse
+• Technologies Involved In the Metaverse
+• Blockchain Adoption in Metaverse
+• Tools Required to Build Metaverse
+• 3D Model Development
+• Developing Web Based Metaverse
+• Hardware Integration
+• Use Cases
+
+Pre-requisites: No prior experience in programming required.
+
+Required Material:
+• Hardware - Bring in your own laptop (Mandatory)
+• Software – None
+9:00 AM - 5:00 PM
+October 18, 2023 | 480 Minutes
+PAID
+Certified TrainingsHall 29, Workshop Room C GITEX GlobalDubai World Trade Centre
+Cybersec First Responder Course
+
+Course Objectives:
+In this course, you will identify, assess, respond to, and
+protect against security threats and operate a system and network security
+analysis platform. You will:
+• Assess cybersecurity risks to the organization.
+• Analyze the threat landscape.
+• Analyze various reconnaissance threats to computing and network
+environments.
+• Analyze various attacks on computing and network environments.
+• Analyze various post-attack techniques.
+• Assess the organization's security posture through auditing,
+vulnerability management, and penetration testing.
+• Collect cybersecurity intelligence from various network-based and
+host-based sources
+• Analyze log data to reveal evidence of threats and incidents.
+• Perform active asset and network analysis to detect incidents.
+• Respond to cybersecurity incidents using containment, mitigation, and recovery
+tactics.
+• Investigate cybersecurity incidents using forensic analysis techniques.
+
+Course Outline/ Agenda:
+• Identifying the Need for Security in Your Software Projects
+• Handling Vulnerabilities
+• Designing for Security
+• Developing Secure Code
+• Implementing Common Protections
+• Implementing Common Protections
+• Maintaining Security in Deployed Software
+
+Target Audience:
+Individuals with between 3 and 5 years of experience working in a computing environment as part of a CERT/CSIRT/SOC who protect critical information systems before, during, and after an incident.
+
+Required Material:
+Hardware For this course, you will need one Microsoft® Windows Server® 2019 computer and one Microsoft® Windows® 10 computer for each student and for the instructor. Make sure that each computer meets the classroom hardware specifications: Windows Server 2019 2 gigahertz (GHz) 64-bit (x64) processor. 4 gigabytes (GB) of Random Access Memory (RAM). Windows 10 2 GHz 64-bit processor that supports the VT-x or AMD-V virtualization instruction set and Second Level Address Translation (SLAT). 8 GB of RAM. This client will host a Linux® virtual machine. Both Computers 80 GB storage device or larger. Monitor capable of a screen resolution of at least 1,024 × 768 pixels, at least a 256-color display, and a video adapter with at least 4 MB of memory. Bootable DVD-ROM or USB drive. Keyboard and mouse or a compatible pointing device. Fast Ethernet (100 Mb/s) adapter or faster and cabling to connect to the classroom network. IP addresses that do not conflict with other portions of your network. Internet access (contact your local network administrator). (Instructor computer only) A display system to project the instructor's computer screen. (Optional) A network printer for the class to share. Software Microsoft Windows Server 2019 Standard Edition with sufficient licenses. Microsoft Windows 10 Professional 64-bit with sufficient licenses. Windows Server 2019 and Windows 10 require activation unless you have volume-licensing agreements. There is a grace period for activation. If the duration of your class will exceed the activation grace period (for example, if you are teaching the class over the course of an academic semester), you should activate the installations at some point before the grace period expires. Otherwise, the operating systems may stop working before the class ends. If preferred, a third-party browser such as Google Chrome™ or Mozilla® Firefox®. If preferred, a third-party PDF reader such as Adobe® Acrobat® Reader. Kali Linux version 2021.2. The Kali Linux operating system is already installed on a VM that will be loaded in VirtualBox. Miscellaneous software that is not included in the course data files due to licensing restrictions: Java Runtime Environment (JRE) version 8u291 (JavaSetup8u291.exe). Npcap version 1.50 (npcap-1.50.exe). Process Explorer version 16.42 (procexp.exe). Splunk® Enterprise version 8.2.1 (splunk-8.2.1-ddff1c41e5cf-x64-release.msi). Log Parser version 2.2 (LogParser.msi). Log Parser Studio version 2.0 (LPSV2.D2.zip). Copyright 2021 CertNexus. All Rights Reserved The steps to download these tools are described in the course setup that follows. Note that the URL paths to these downloads may have changed after this course was written. The activities in this course were written to the versions of the
+software noted previously. If new versions of these tools have been released when you present this course, make sure to test them with their corresponding activities to note any keying discrepancies. Miscellaneous software that is included in the course data files: Oracle® VM VirtualBox version 6.1.16 (VirtualBox-6.1.16-140961-Win.exe). Wireshark version 3.4.6 (Wireshark-win64-3.4.6.exe). Snort® version 2.9.18 (Snort_2_9_18_Installer.x64.exe). icmpsh (icmpsh.zip). XAMPP version 7.3.28 (xampp-windows-x64-7.3.28-1-VC15-installer.exe). OpenSSH for Windows version 7.1 (setupssh-7.1p2-1.exe). PuTTY version 0.76 (putty.exe). LibreOffice Portable version 7.1.4 (LibreOfficePortable_7.1.4_MultilingualStandard.paf.exe). VirtualBox, Wireshark, Snort, and icmpsh are distributed with the course data files under version 2 of the GNU General Public License (GPL). XAMPP is distributed under version 3 of the GNU GPL. OpenSSH for Windows is distributed with the course data files under a Berkeley Software Distribution (BSD) license. PuTTY is distributed with the course data files under the MIT License. LibreOffice is distributed with the course data files under version 2 of the Mozilla Public License (MPL). If you prefer, you can install a version of Microsoft Office instead of using LibreOffice. If necessary, software for viewing the course slides (instructor machine only)
+
+Pre-requisites:
+To ensure your success in this course, you should meet the following requirements:
+• At least two years (recommended) of experience or education in computer network security technology or a related field.
+• The ability or curiosity to recognize information security vulnerabilities and threats in the context of risk management.
+• Foundational knowledge of the concepts and operational framework of common assurance safeguards in network environments. Safeguards include, but are not
+limited to, firewalls, intrusion prevention systems, and VPNs.
+• General knowledge of the concepts and operational framework of common assurance safeguards in computing environments. Safeguards include, but are not limited to, basic authentication and authorization, resource permissions, and anti-malware mechanisms.
+• Foundation-level skills with some of the common operating systems for computing environments.
+• Entry-level understanding of some of the common concepts for network environments, such as routing and switching.
+• General or practical knowledge of major TCP/IP networking protocols, including, but not limited to, TCP, IP, UDP, DNS, HTTP, ARP, ICMP, and DHCP
+10:00 AM - 11:00 AM
+October 18, 2023 | 60 Minutes
+PAID
+Ai WorkshopHall 29, Workshop Room A Ai everythingDubai World Trade Centre
+Industrial Metaverse and Enterprise AR: The next frontier of AI-powered transformation
+
+The workshop will provide an in-depth exploration of the challenges and opportunities associated with Enterprise Augmented Reality and the Industrial Metaverse. Participants will learn about the status of the global enterprise AR market and key use cases, as well as how to harness the benefits of AR and accelerate adoption. The workshop aims to inform and inspire participants with the tools, insights, processes, and support needed to develop their own use cases, driving innovation within their organizations and shaping the future of industries. Additionally, the workshop will examine barriers to AR adoption, including security, safety, human factors, workforce implications, integration complexities, and regulatory frameworks.
+Attendee profile:
+Business leaders, technology practitioners, business unit managers, and staff looking to implement XR / metaverse technologies.
+SPEAKERS
+
+Mark Sage
+Executive Director
+United Kingdom
+AR for Enterprise Alliance (AREA)
+10:15 AM - 10:30 AM
+October 18, 2023 | 15 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Moderator Remarks
+
+
+SPEAKERS
+
+Nathan Swain
+CISO Europe, Asia & MENA region, Binance
+United Arab Emirates
+Former Senior Security Advisor to the U.K. Government
+10:20 AM - 11:30 AM
+October 18, 2023 | 70 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Opening Remarks by MC
+
+
+SPEAKERS
+
+Mohammed Ismael Hameedaldin
+Partner
+United Arab Emirates
+TOUGHLOVE Advisors
+10:30 AM - 10:40 AM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Welcome Address
+
+
+SPEAKERS
+
+Sophie Devonshire
+Global CEO
+United Kingdom
+The Marketing Society
+10:30 AM - 12:35 PM
+October 18, 2023 | 125 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Comprehending Comprehensions
+
+Comprehensions make your Python faster and more idiomatic — but they're confusing. Join this workshop, and master them. In this hands-on workshop, participants will learn about comprehensions:
+• The three different types (list, set, and dict)
+• How to write them in an idiomatic, readable style
+• Ways to use them for clearer, more efficient Python code
+The workshop will include numerous hands-on exercises, to ensure that participants actually learn the material. And of course, there will be ample time for Q&A.
+
+SPEAKERS
+
+Reuven Lerner
+Python Trainer
+Israel
+Independent Developer
+10:30 AM - 11:15 AM
+October 18, 2023 | 45 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+ENEC Highlight Level Program
+
+
+10:30 AM - 10:45 AM
+October 18, 2023 | 15 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | VIP Address
+
+
+10:40 AM - 11:00 AM
+October 18, 2023 | 20 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Keynote Presentation: How is Saudi Transforming the Country with Tourism
+
+
+SPEAKERS
+
+Asmaa Quorrich
+Chief Marketing Officer
+Saudi Arabia
+Saudi Tourism Authority
+10:45 AM - 11:30 AM
+October 18, 2023 | 45 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Youth Circle - Ministry of Education
+
+Campus 2071 : Evolution of educational institutions into centers of innovation, entrepreneurship & sustainable
+development
+10:50 AM - 11:00 AM
+October 18, 2023 | 10 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Opening Remarks by MC
+
+
+SPEAKERS
+
+Jepson Taylor
+Chief AI Strategist
+United States of America
+Dataiku
+10:55 AM - 11:00 AM
+October 18, 2023 | 5 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Opening Remarks by MC
+
+
+SPEAKERS
+
+Steve Bambury
+Metaverse Consultant
+United Arab Emirates
+Lazudi
+10:55 AM - 11:00 AM
+October 18, 2023 | 5 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Opening remarks
+
+
+SPEAKERS
+
+David Mertz
+Keynote speaker for PyCon events & Senior Python Trainer
+United States of America
+KDM Training
+
+Marc Andre Lemburg
+Co-Founder Python Dusseldorf, CEO
+Germany
+eGenix.com
+10:55 AM - 11:00 AM
+October 18, 2023 | 5 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Opening Remarks by MC
+
+
+SPEAKERS
+
+Nadira Tudor
+Emcee
+United Kingdom
+Create & Communicate LTD
+11:00 AM - 11:15 AM
+October 18, 2023 | 15 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Funding, Financing & Innovations | Opening Welcome Address
+
+
+
+11:00 AM - 11:45 AM
+October 18, 2023 | 45 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | Workshop: Generative AI for Emerging Fintechs: Taking a Page from HSBC’s Playbook
+
+In the fast-evolving landscape of fintech, innovation is the foundation of success.
+This workshop is your exclusive opportunity to learn from Dr Jurgen Rahmel's wealth of expertise and dive into the world of Generative AI. Discover how emerging fintech can harness this cutting-edge technology, drawing insights from HSBC's playbook, to revolutionize their approach to creation and innovation.
+
+11:00 AM - 11:10 AM
+October 18, 2023 | 10 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Opening Remarks by the MC
+
+
+11:00 AM - 11:10 AM
+October 18, 2023 | 10 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Opening Remarks by MC
+
+
+11:00 AM - 11:05 AM
+October 18, 2023 | 5 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Africa : Opening Remarks by MC
+
+
+11:00 AM - 11:05 AM
+October 18, 2023 | 5 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Rising Series | Opening Remarks by MC
+
+
+SPEAKERS
+
+Espree Devora
+Producer & Host
+United States of America
+Tech Podcasts @WeAreLATech
+11:00 AM - 11:45 AM
+October 18, 2023 | 45 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Building a Community: Fractionalized Ownership
+
+
+11:00 AM - 1:00 PM
+October 18, 2023 | 120 Minutes
+PAID
+GITEX Impact - Planet LabsHall 28, Impact Workshop Room GITEX ImpactDubai World Trade Centre
+Corporate Sustainability: Performance Management and Evaluation
+
+Managing and evaluating sustainability performance is crucial for organisations committed to their sustainability goals. This session will delve into tools and methodologies for measuring sustainability performance. Participants will explore various metrics, key performance indicators (KPIs), and frameworks that can be utilized to assess sustainability performance. Additionally, the session will touch upon the significance of third-party evaluation and certifications to provide an external reality check on sustainability efforts. Attendees will gain insights into effective performance management and evaluation practices that can drive continuous improvement and enhance sustainability outcomes.
+
+11:00 AM - 11:45 AM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Web3 Powered Marketing & Loyalty Programs
+
+
+11:00 AM - 11:15 AM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Navigating leadership in a rapidly evolving technological landscape
+
+With the exponential increase of technology and AI, there will be social and economic impacts on people, organizations and jobs. How can you align yourself with this change and distinguish yourself to remain relevant and lead with confidence? What innovations and ecosystems do you need to have a perspective on? How can you improve efficiency and adapt to improve economically? What are the impacts of AI on organizations, society and people?
+SPEAKERS
+
+Omar Hatamleh
+Chief Advisor - AI & Innovation
+United States of America
+Goddard Space Flight Centre, NASA
+11:00 AM - 11:30 AM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Introduction to Parsing and Abstract Syntax Trees with Python
+
+A crash course into tokenization and abstract syntax trees touching on static analysis and testing tools like pylint, black and Cosmic Ray.
+
+SPEAKERS
+
+Alexander Todorov
+QA Guru & Python automation Tester, Founder & Creator
+Bulgaria
+Kiwi TCMS
+11:00 AM - 12:30 PM
+October 18, 2023 | 90 Minutes
+UNPAID
+Impact BoardroomHall 28, Impact Boardroom GITEX ImpactDubai World Trade Centre
+Creating Sustainable Smart Cities: Technologies and Strategies (By Invitation Only)
+
+The development of sustainable smart cities has emerged as a critical focus area in urban planning and development. This session will explore the leveraging of technology for sustainable urban development, including the key components that contribute to a sustainable smart city ecosystem. The discussion will highlight the significance of public-private partnerships in implementing smart city initiatives and showcase case studies of successful sustainable smart city projects.
+
+SPEAKERS
+
+Jordi Vaquer
+Secretary General
+Spain
+World Association of Major Metropolises (Metropolis)
+11:00 AM - 11:20 AM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Special Address by KHDA
+
+
+11:00 AM - 11:10 AM
+October 18, 2023 | 10 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Opening remarks by MC
+
+
+11:00 AM - 11:30 AM
+October 18, 2023 | 30 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Finance & Investors Discussion - Funding Green Dreams for the Cities of Tomorrow
+
+• The green finance market is expected to reach USD 914.4 billion by 2030.
+• How can green bonds, climate funds, and similar mechanisms be used to fund the transition to low-carbon cities?
+• What are the opportunities and challenges associated with green financing for urban development?
+• From concept to cash flow: How can cities effectively access and deploy green finance?
+SPEAKERS
+
+Jarek Olszowka
+Managing Director and Head of Sustainable Finance
+United Kingdom
+Nomura
+
+Sean Kidney
+CEO and Co-Founder
+United Kingdom
+Climate Bonds Initiative
+
+Siseko Mbandezi
+Member of the Mayoral Committee for Finance
+South Africa
+City of Cape Town
+
+Vitor Pereira
+Executive Director
+Portugal
+Zoom Global Smart Cities Association
+11:05 AM - 11:30 AM
+October 18, 2023 | 25 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Africa : Ministerial Session: Leapfrog Traditional Development Paths
+
+The African digital economy is projected to be $712 billion by 2050. Strong links between policymakers, entrepreneurs and the private sector are essential. Hear from the leaders at the helm of building community around tech in the region.
+
+11:05 AM - 11:30 AM
+October 18, 2023 | 25 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Rising Series | Mobility Unicorn Session: Catalysing Growth & Global Expansion
+
+
+SPEAKERS
+
+Mark Loughran
+Group President
+Cyprus
+InDrive Holdings
+11:10 AM - 11:20 AM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | PechaKucha Session
+
+
+11:10 AM - 11:25 AM
+October 18, 2023 | 15 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Sustainability at the Crossroads: Aligning Governance, Green Finance and Groundbreaking Tech
+
+- Sowing seeds for success: The collaborative approach to sustainable solutions
+- Transformative tech: Innovations shaping the future of sustainable finance
+- The evolving framework of regulations for sustainability
+SPEAKERS
+
+Lord McNicol of West Kilbride
+Deputy Speaker and Member of the House of Lords
+United Kingdom
+UK Parliament
+11:10 AM - 11:30 AM
+October 18, 2023 | 20 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Rethinking the Smartphone: Designing for the Future of Interaction
+
+- Re-inventing Form Factors: Can foldable displays and detachable parts change the way we think about smartphone design and interaction?
+- AI and Smartphone Interaction: Could future devices perceive user behaviour in real-time and customise their interface dynamically based on these cues?
+- How can smartphone OEMs place greater emphasis on user-centred design principles?
+- Emerging markets: How can smartphone OEMs innovate to tap into emerging markets, such as through affordable pricing, localised software, or unique features tailored to specific regions?
+SPEAKERS
+
+Akis Evangelidis
+Co-Founder
+United Kingdom
+Nothing
+11:10 AM - 11:25 AM
+October 18, 2023 | 15 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Voice of Leaders | Procurement Leadership 2023: Shaping a Sustainable Purchasing Ecosystem
+
+- Policies and partnerships to adopt climate disclosures and limit warming to 1.5°C
+- How can investors embrace climate disclosure data to deploy $3 trillion to $6 trillion in sustainability-linked investments by 2050?
+- Novel data and technology solutions to assess business activities and reduce emissions
+
+11:15 AM - 11:35 AM
+October 18, 2023 | 20 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Spotlight: AI Frontlines: Harnessing ChatGPT & Generative AI in Cybersecurity's Dual-Edged Battle
+
+ChatGPT, Generative AI, and Automated Penetration Testing have shown both positive and negative use-cases in the cybersecurity industry. From attackers having the ability to stage more advanced attacks to defenders incorporating ChatGPT into their tools for easier use, AI has taken the cybersecurity world by storm. Join us for a session discussing the outlook on AI in the cybersecurity industry and how you can use AI to be more secure.
+SPEAKERS
+
+Paul Vann
+Analyst, Leading Cyber Unicorn & Senior
+University of Virginia
+11:15 AM - 11:30 AM
+October 18, 2023 | 15 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Lightning Talks Day 2 | Tech Solutions Ltd (paytiko) Exhibitor - Elevate Stage Speaking Session
+
+
+11:15 AM - 11:30 AM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Presentation: Ask more of AI: How to use AI and maintain customer Trust
+
+Everyone has questions about AI: how do I use it, how will it impact my bottom line, how do I get started? But there's one big question to address: how can we get the most from AI, while maintaining the most crucial element: trust. Join Salesforce to learn why trusted data, trusted architecture, and trusted experiences will mean you can step into the AI era with confidence.
+SPEAKERS
+
+Efrat Rapoport
+VP of Artificial Intelligence R&D
+Netherlands
+Salesforce
+11:20 AM - 11:40 AM
+October 18, 2023 | 20 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat | How can high performance computing be leveraged for net zero targets ?
+
+
+SPEAKERS
+
+Michael Kagan
+CTO
+Israel
+Nvidia
+11:20 AM - 11:40 AM
+October 18, 2023 | 20 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Fireside Chat: Content Spotlight Session: Can Video-First Strategy Organically Improve Traffic?
+
+Being a leader is no longer limited to those who sit on top, but it's for those who have something worth sharing and something worth listening to. So how do you share meaningful stories in a world where everyone has something to say. Listen in to the age of storytelling.
+
+SPEAKERS
+
+Annie Arsane
+Head of Business Marketing, Middle East, Turkey, Africa and Pakistan
+United Arab Emirates
+TikTok
+11:20 AM - 11:40 AM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Presentation | AI in Education: Empowering Potential or Eliminating Human Touch
+
+• The critical perspective to be taken into consideration on transforming education with AI
+• How might the future impact the necessity for human intervention in light of advancing AI capabilities?
+• What strategies can be implemented to ensure our systems keep pace with the rapid advancements?
+SPEAKERS
+
+Fengchun Miao
+Chief of the Unit for Technology and Artificial Intelligence (AI) in Education at Education Sector, UNESCO HQ
+France
+Unesco
+11:25 AM - 11:40 AM
+October 18, 2023 | 15 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Fostering Climate Tech Innovation: Where Philanthropy Meets Green Startups
+
+- Unpacking the intersection of philanthropy, entrepreneurship, and sustainability: Examining challenges, opportunities, and the forward path.
+- The critical role of philanthropic organizations in nurturing climate tech startups and driving sustainable innovation: A detailed exploration of current strategies and future potentials.
+- Highlighting success stories: A discussion on the impact of sustainable startups supported by philanthropy, featuring their contributions to climate conservation and the evolution of green technologies.
+SPEAKERS
+
+Somachi Chris-Asoluka
+Chief Executive Officer
+Nigeria
+The Tony Elumelu Foundation
+11:25 AM - 11:55 AM
+October 18, 2023 | 30 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Fireside chat | Supplier Engagement for Sustainable Procurement
+
+- Strategies to engage suppliers in sustainable practices and responsible sourcing
+- Enhancing transparency and optimizing the use of circular raw materials
+- Implementing supplier assessment frameworks for evaluating sustainability performance
+SPEAKERS
+
+Dexter Galvin
+Chief Commercial and Partnerships Officer
+United Kingdom
+CDP
+11:30 AM - 11:50 AM
+October 18, 2023 | 20 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Africa : Activating Sectoral Growth in Africa
+
+Pivotal goal for the continent's economic development lies in activating sectors through a collaborative effort involving government, corporate entities, and technology-driven innovation. This strategic approach recognizes that Africa's diverse economies require a multifaceted approach. Governments play a critical role to foster sector-specific growth. Corporations, both domestic and international, can contribute by investing in these sectors, creating jobs, and promoting sustainable practices.
+
+11:30 AM - 12:10 PM
+October 18, 2023 | 40 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Rising Series | Scaleups Insight: Raising Money is Frustrating & Unpredictable! How Do You Make it Work?
+
+- The State of Pre-Seed and Early Stage Investments
+- How to build your early VC network?
+- How to raise first dollars when investors are more cautious?
+- Navigating the rocky path from founder run to scaling, hiring and everything else in the business of sustainability
+
+SPEAKERS
+
+Akmal Paiziev
+Co-Founder & CEO
+Uzbekistan
+Express24; MyTaxi
+
+Aly Madhavji
+Managing Partner
+Singapore
+Blockchain Founder Fund
+
+Nader Amiri
+Founder​ & COO
+United Arab Emirates
+elGrocer
+
+Saurabh Bhatnagar​
+Founder​
+United Kingdom
+KitmyTrip & Alike.io​
+11:30 AM - 11:45 AM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+New era of AI governance
+
+A report by PwC suggests that the global economy could benefit from up to $15.7 trillion by 2030 with the aid of AI. Although the emergence of AI has led to remarkable advances, it also calls for novel forms of governance. The discussion on AI governance is not new, but it has become increasingly urgent as businesses and governments increasingly rely on AI and automation to make decisions, ranging from hiring people to criminal sentencing. Thus, there is a crucial need to align AI with human values and principles by establishing an efficient framework for AI governance, which must be accomplished through collaboration between industries, organizations, and governments.
+SPEAKERS
+
+Merve Hickok
+President & Research Director
+United States of America
+Center for AI & Digital Policy (CAIDP)
+11:30 AM - 11:45 AM
+October 18, 2023 | 15 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Lightning Talks Day 2 | Wlasaas Exhibitor - Elevate Stage Speaking Session
+
+
+11:30 AM - 12:15 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Youth Circle - Ministry of Economy
+
+The Emiratipreneurs - Creating the next generation global startup superstars from UAE's Youth Ecosystem
+In line with the launch of the Emaratipreneur platform and the Emaratipreneur Zone at Youth 2023, this panel will shed light
+on creating the next gen of startup superstars, unicorns and globally renowned entrepreneurs from the UAE
+11:30 AM - 12:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Security Considerations in Python Packaging
+
+Identify the security issues related to python packaging and possible solutions to make python packages secure.
+
+SPEAKERS
+
+Gajendra Deshpande
+Lead of PyData Belgavi, Founder & MD
+India
+Eysec Cyber Security Solutions
+11:30 AM - 11:50 AM
+October 18, 2023 | 20 Minutes
+UNPAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Beyond Telecommunications: Redefining Next-Generation Operators
+
+- Does the ever-changing technological landscape present challenges or opportunities for telecom providers?
+- Can a solid foundation in connectivity provide a strong launch pad to technology growth?
+- How technology providers can support the evolving shift towards a digital economy & society in the MENA region.
+- What is the formula for a successful telco to techno transformation?
+SPEAKERS
+
+Mikkel Vinter
+CEO
+Bahrain
+Beyon
+11:30 AM - 11:50 AM
+October 18, 2023 | 20 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Case Study - From Blueprint to Reality: The Crucial Role of Financing and Investment in Residential Real Estate
+
+
+SPEAKERS
+
+Jan Vapaavuori
+Former Mayor of Helsinki & Executive Chairman for Neighborhood Development
+Denmark
+Urban Partners
+11:35 AM - 11:55 AM
+October 18, 2023 | 20 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+SPOTLIGHT PRESENTATION - Utilizing AI to Secure IoT Communication for The Corporate Environment: Availability, Device Trust, and Relay Data
+
+The adoption of IoT is supported by cost and efficiency advantages, but comes with a new set of challenges. On a corporate level, the requirements and risks require substantial changes. Understanding infrastructure requirements and creating suitable policies is a goal we hope to tackle.
+SPEAKERS
+
+Abdullah Alrumayh
+Senior Business System Analyst
+Saudi Arabia
+Saudi Aramco
+
+Mashail Almohumeed
+Senior Computer Operating System Analyst
+Saudi Arabia
+Saudi Aramco
+11:40 AM - 11:55 AM
+October 18, 2023 | 15 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation | Building a tech company and teams from scratch
+
+
+SPEAKERS
+
+Nina Buffi
+CEO
+Germany
+Ospin
+11:40 AM - 12:00 PM
+October 18, 2023 | 20 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | ChatGPT Changing the Course of Content Creation for Brands
+
+
+11:40 AM - 11:55 AM
+October 18, 2023 | 15 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Unboxing Green Delivery: The Future of Sustainable Logistics
+
+- The crucial role of logistics in the global sustainability journey: challenges and opportunities
+- How renewable energy sources and electric vehicles are transforming the logistics landscape
+- Balancing efficiency, cost, and sustainability: Insights from the field of logistics
+SPEAKERS
+
+Katja Busch
+Chief Commercial Officer
+Germany
+DHL
+11:40 AM - 12:00 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Fire Side Interview | In conversation with the Education Minister of Estonia
+
+
+SPEAKERS
+
+Kristina Kallas
+Minister of Education and Research
+Estonia
+Ministry of Education and Research of the Republic of Estonia
+11:45 AM - 12:15 PM
+October 18, 2023 | 30 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | DIALOGUE: Harnessing the Potential of Partnerships : Driving MENA's Global Competitiveness
+
+
+11:45 AM - 12:00 PM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Presentation: Empowering the next generation of ethical AI advocates: Amplifying youth perspectives in Generative AI regulation
+
+The exponential growth of AI demands urgent action to establish comprehensive governance frameworks that address ethical considerations, promote transparency, and ensure accountability. Youth perspectives bring a unique and valuable lens to the discussion surrounding AI regulation. By recognizing the importance of youth perspectives, we can foster a more equitable, responsible, and human-centered approach to AI governance. Let us empower the next generation of ethical AI advocates and embark on a collective journey towards a more inclusive, responsible, and human-centered AI ecosystem.
+
+SPEAKERS
+
+Sneha Revanur
+Founder/President
+United States of America
+Encode Justice
+11:45 AM - 12:30 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Curating Immersive Exhibitions & Personalized Digital Collectible Drops
+
+
+11:45 AM - 12:30 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Partnerships and Collaborations: Amplifying the Benefits of Decentralized Technologies.
+
+
+11:45 AM - 12:00 PM
+October 18, 2023 | 15 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Lightning Talks Day 2 | Redimi GmbH Exhibitor - Elevate Stage Speaking Session
+
+
+11:50 AM - 12:10 PM
+October 18, 2023 | 20 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Cracking the 5G Success Code: The Convergence of Cloud-Native with the Potential of 5G SA Network
+
+- What are the key benefits of cloud-native solutions for building and managing 5G networks, and how do these apply to open-RAN networks?
+- How can network slicing be enabled and optimized using cloud-native architecture, and what are its cost implications for telecom operators and end-users?
+- What is the role of cloud-native solutions in enabling the development of new services and applications in a Stand-Alone (SA) 5G context?
+SPEAKERS
+
+Khalid Murshed
+Chief Technology & Information Officer (CTIO)
+United Arab Emirates
+Etisalat - UAE
+11:50 AM - 12:40 PM
+October 18, 2023 | 50 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Africa : Ecosystem of Investing in Africa
+
+Policy, regulations, corporate collaboration
+Setting the Scene - With the downturn, how did we survive? What we could have done better?
+What Africa does differently than rest of the world
+
+
+SPEAKERS
+
+Fernando Cabral
+Chief Venture Growth
+United Kingdom
+Djassi Africa
+
+Yassine Laghzioui
+CEO
+Morocco
+UM6P Ventures
+11:50 AM - 12:05 PM
+October 18, 2023 | 15 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Innovation Showcase Session
+
+
+SPEAKERS
+
+Anton Elistratov
+CEO & Member of the Board of Directors
+Russian Federation
+Samolet Group
+11:55 AM - 12:15 PM
+October 18, 2023 | 20 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat | AI challenges: Future of Work
+
+
+SPEAKERS
+
+Minsam Kim
+VP of Product
+Korea, Republic Of
+Riiid
+11:55 AM - 12:25 PM
+October 18, 2023 | 30 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+LIVE Cybersecurity Detective Work
+
+Deciphering Shadows: The Odyssey of Unraveling and Countering a Malicious Chrome Extension
+SPEAKERS
+
+Chi Tran
+Award Winning
+Ethical Hacker
+11:55 AM - 12:25 PM
+October 18, 2023 | 30 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Industrial Evolution: Embracing Sustainability through Innovation
+
+- Driving innovation towards more sustainable solutions and technologies in the industrial sector
+- Integrating sustainability into industrial operations: Revisiting risks, challenges, and future projections
+- Financing sustainable manufacturing: Exploring greener approaches
+SPEAKERS
+
+Dexter Galvin
+Chief Commercial and Partnerships Officer
+United Kingdom
+CDP
+
+Irina Gorbounova
+Vice President - M&A and Head of Xcarb Innovation Fund
+United Kingdom
+ArcelorMittal
+
+Maya Makanjee
+Non Executive Director
+South Africa
+Cell C
+
+Salman Abdulla
+Executive Vice President, ESG & Sustainability
+United Arab Emirates
+Emirates Global Aluminium
+11:55 AM - 12:35 PM
+October 18, 2023 | 40 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Panel discussion | Digitising the Green Supply Chain: Integrating Digital Solutions for Sustainable Procurement
+
+- Streamlining supplier selection and management through digital solutions
+- Ensuring supply chain traceability and sustainability with blockchain and decentralisation
+- Laying the digital foundations to minimizing scope 3 emissions and localise content
+
+SPEAKERS
+
+Samuel Keith Achampong
+Regional Managing Director
+United Arab Emirates
+Chartered Institute of Procurement and Supply (CIPS)
+12:00 PM - 12:05 PM
+October 18, 2023 | 5 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Opening Insights by the MC
+
+Hear from the most exciting and disruptive startups who have made it on the investors’ watchlist!
+
+SPEAKERS
+
+Natalia Brzezinski
+Spotify Podcast Founding Host; and Head of Strategy
+Sweden
+Klarna
+12:00 PM - 12:05 PM
+October 18, 2023 | 5 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Conference Host Remarks
+
+
+SPEAKERS
+
+Amina Taher
+Vice President Brand, Marketing & Sponsorships
+United Arab Emirates
+Etihad Airways
+12:00 PM - 1:00 PM
+October 18, 2023 | 60 Minutes
+PAID
+Ai WorkshopHall 29, Workshop Room A Ai everythingDubai World Trade Centre
+Building Trust in AI for Clinicians: Explainable and Interactive Approach
+
+AI has several avenues in medical decision-making, as AI models provide valuable insights for clinicians. However, AI models are often viewed as black boxes and can be difficult to interpret. Hence, in a high-risk field such as medicine, clinicians find it challenging to build trust and confidence in using such models. This workshop will present an explainable AI model for diagnosing Retinal OCT diseases and uncover its underlying decision-making process. The session will also explain the various ways to interact with the model, evaluate it, and interpret the results. The workshop aims to bridge the gap between clinicians' concerns and AI capabilities and embark on the journey of transforming medicine with AI.
+SPEAKERS
+
+Anish Agarwal
+Global Head of Analytics
+India
+Dr. Reddy’s Laboratories
+12:00 PM - 12:20 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Presentation | Artificial Intelligence and the Future of Teaching and Learning
+
+Artificial Intelligence (AI) has become an integral part of modern society, transforming the way we live, work and learn. In the field of education, AI is being used to create new opportunities for personalized learning and innovative teaching methods. However, integrating AI into education also presents several challenges, including ethical considerations, potential biases, and the need for proper training. Explore the role of AI in education, discuss their safe and responsible use, and determine ways to leverage them to improve teaching and learning
+ger scale
+12:00 PM - 12:15 PM
+October 18, 2023 | 15 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Lightning Talks Day 2 | Elcoin Exhibitor - Elevate Stage Speaking Session
+
+
+12:00 PM - 12:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Native Profiling for Python
+
+What is native profiling
+Signal-based native profiling
+Example of C API vs HPy
+
+12:00 PM - 12:15 PM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Democratizing Generative AI and Supercharging Human Prowess
+
+Generative AI technologies such as ChatGPT and Bard have substantially accelerated our decades-long journey to an “AI Everywhere” reality. While discussions abound on whether these AI models will replace or complement human ingenuity for professionals ranging from programmers to artists, the societal value of democratizing such critical technologies cannot be overstated. While the explosion in size and complexity of the models and their voracity for data and compute naturally lend itself to making Generative AI the domain of a few pioneering companies, early design decisions emphasizing the use of ubiquitous hardware and open software are critical to ensuring wider future access.
+SPEAKERS
+
+Wei Li
+Vice President and General Manager of Artificial Intelligence and Analytics
+United States of America
+Intel
+12:05 PM - 12:15 PM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Changemaker Keynote Presentation: Social Impact for the Ages
+
+Explore how an award winning CMO is creating ‘inter-generational equity’ to protect our planets biodiverse habitats
+
+SPEAKERS
+
+Vikram Krishna
+Co-Founder
+United Arab Emirates
+Sacred Groves
+12:05 PM - 12:40 PM
+October 18, 2023 | 35 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Unicorn Soonicorn Insights: Uncovering the Next 10 Years in the Autonomous Vehicles & Mobility Market
+
+
+SPEAKERS
+
+Anmol Jaggi
+Founder
+India
+Blu Smart Mobility & Gensol Engineering (NSE listed),
+
+Rui Tang
+Founder & Chief Executive Office & Chairman
+China
+Zongmu Technology
+12:05 PM - 12:35 PM
+October 18, 2023 | 30 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Digital Leaders Discussion - Smart Homes and Buildings: The Controls are Not in Your Hands, Should You Be Relieved or Worried?
+
+• There are 258.54 million smart homes across the world. The global smart home market is expected to grow at a compound annual growth rate (CAGR) of 27.07% from 2023 to 2030.
+• How can smart home and building technology be integrated into existing infrastructure to maximize energy efficiency and minimize carbon emissions?
+• AI Energy management systems, such as smart thermostats, lighting controls, or HVAC systems, can they help in reducing energy consumption and improve building efficiency?
+SPEAKERS
+
+Alby Bocanegra
+Founder and Former CTO of NYC
+United States of America
+The Urban Futurist, Inc.
+
+Ali Saeed Abuzinjal
+Head of Digitization
+United Arab Emirates
+SRTIP
+
+Corey Gray
+Global CEO
+Australia
+Smart Cities Council
+
+Delyan Lilov
+Chairman on the Board
+Bulgaria
+Living Homes
+12:10 PM - 12:30 PM
+October 18, 2023 | 20 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Investing in Innovation: Guaranteeing Long-Term ROI for Telcos
+
+- Network infrastructure and Operations: How can MNOs continually invest in upgrading their networks to enhance capacity, speed, and reliability?
+- How can telcos work with startups to bring innovative solutions to their customers?
+- Customer experience: What novel strategies must telecom companies prioritise to deliver personalised solutions and services tailored to individual customer needs, accessible 24X7?
+SPEAKERS
+
+Elisabetta Romano
+Chief Network Operations & Wholesale Officer
+United Arab Emirates
+Telecom Italia
+12:10 PM - 12:30 PM
+October 18, 2023 | 20 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Rising Series | How are Fintech Disruptors Shaping the Future Banks: The Landscape Expanding to Neobanks, to Credit Unions to Entrepreneurial Banks
+
+
+SPEAKERS
+
+Anurakt Jain
+Founder & CEO
+India
+Klub
+
+Omar Hassan
+Managing Director
+United Kingdom
+Global Growth Hub
+
+Remo Giovanni Abbondandolo
+GM MENA
+United Arab Emirates
+Checkout.com
+12:15 PM - 12:30 PM
+October 18, 2023 | 15 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation | CTOs as the key game changers across Web 3.0
+
+
+SPEAKERS
+
+Nitzan Mekel-Bobrov
+Chief AI Officer
+United States of America
+ebay
+12:15 PM - 1:00 PM
+October 18, 2023 | 45 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | MASTERMINDS’ TALK: Opportunities and Ethics of Syncing Generative AI and Open Banking Data Collaboration ꟷ From Hyper Personalisation to Financial Inclusion
+
+
+12:15 PM - 12:35 PM
+October 18, 2023 | 20 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Fireside Chat: Orchestrating Culture Change to Pivot Local Enterprises onto a Global Stage
+
+Learn how enhancing the employee experience is a priority for the world's leading telecom groups in emerging markets. From turning productivity into profitability, explore how organizations can leverage technology to make data-driven decisions about how they attract, hire, promote, engage, and retain top talent.
+
+SPEAKERS
+
+Amina Taher
+Vice President Brand, Marketing & Sponsorships
+United Arab Emirates
+Etihad Airways
+
+Dena Almansoori
+Group Chief Human Resources Officer
+United Arab Emirates
+e&
+12:15 PM - 12:45 PM
+October 18, 2023 | 30 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Panel Discussion: AI without borders: The urgent need for a global AI regulatory framework
+
+The current state of AI regulations varies significantly from one country to another. Some nations have taken proactive steps to establish comprehensive regulatory frameworks, while others are still in the early stages of formulating AI-related policies. This discussion will explore the challenges of establishing a cohesive international framework to govern AI technologies and to chart the path to responsible, borderless AI exploration.
+12:15 PM - 1:15 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Fantastic 50
+
+
+12:20 PM - 12:50 PM
+October 18, 2023 | 30 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Panel Discussion | What AI means for the Future of Education? Time to Rethink and innovate
+
+• Blending AI technologies be effectively integrated into educational systems to enhance personalized learning experiences for students?
+• What are the potential challenges and ethical considerations in implementing AI-driven educational solutions?
+• How might AI-driven tools and automation impact the roles of educators and instructors?
+SPEAKERS
+
+Fiona Robson
+Head of the School of Social Sciences & Edinburgh Business School
+United Arab Emirates
+Heriot-Watt University Dubai
+
+Lameen Abdul Malik
+Founder
+United Arab Emirates
+Honest Management and Entrepreneur
+12:25 PM - 12:55 PM
+October 18, 2023 | 30 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Navigating Net Zero: Lessons from the Maritime and Logistics Ecosystem
+
+- Green shipping corridors: International partnerships for sustainable shipping
+- Low-carbon bunkering operations
+- Future-ready port reception facilities: Advances driving waste management, including sulphur and passively shipped waste, across global ports
+- Powering ports through renewables: Energy management in terminals
+- Methanol-powered shipping fleets: Yay or nay?
+SPEAKERS
+
+Guy Sear
+Managing Director, Global Risk and Maritime
+Austria
+S&P Global Market Intelligence
+
+Hoe Soon Tan
+Deputy Chief Executive, Strategy
+Singapore
+Maritime and Ports Authority of Singapore
+12:25 PM - 1:05 PM
+October 18, 2023 | 40 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Panel Converging Worlds: Securing by design, the hidden pathways of OT & IT
+
+Security becomes the foundation of every design decision. In the age of interconnected systems, a convergence is unfolding—an intricate connect between Operational Technology (OT) and Information Technology (IT). This harmonious union holds immense promise for efficiency, productivity, and innovation. Yet, within this convergence lie vulnerabilities, waiting to be exposed. In this session, we navigate the labyrinthine landscape of OT and IT convergence, uncovering the hidden vulnerabilities that lurk beneath the surface.
+SPEAKERS
+
+Ali Abdulla Hassan
+Chief of Information Technology
+Bahrain
+Ministry of Oil and Environment
+
+Grant Hughes
+Principal Security Architect
+South Africa
+Engen Petroleum Limited
+
+Kamal Zian
+Chief Security Officer
+Qatar
+Huawei
+
+Mehzad Sahar
+Group Head InfoSec
+Pakistan
+Engro Corp.
+
+Olaya Ghenia
+Principal Director of Information System Security (CISO)
+Tunisia
+Tunisian Electricity and Gas Company (STEG)
+
+Siham Benhamidouche
+MEA Cybersecurity Officer
+United Arab Emirates
+Schneider Electric
+12:30 PM - 1:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Panel | Sustainability & innovation at the heart of technology
+
+
+SPEAKERS
+
+Priscilla Chomba Kinywa
+Chief Technology Officer
+Kenya
+Greenpeace
+12:30 PM - 1:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Unlocking the Next Wave of Connectivity: The Intersection of 5G and IoT
+
+- How will 5G revolutionize IoT connectivity, delivering ultra-low latency, massive bandwidth, and unprecedented security?
+- How will WiFi 6 reshape the IoT landscape through faster speeds, improved efficiency, and enhanced security?
+- What does the extended spectrum bring to IoT, and how does it enable uninterrupted connectivity for a myriad of devices, including autonomous vehicles?
+- How can 5G, WiFi 6, and 6E provide innovative solutions for seamless integration? How can these technologies address security concerns and ensure robust protection for connected devices in the ever-expanding IoT world?
+SPEAKERS
+
+Samer Geissah
+Director, Technology Strategy & Architecture
+Canada
+TELUS
+12:30 PM - 1:10 PM
+October 18, 2023 | 40 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Corporate Innovation | Resilient Retailers are Making VC Moves: Here’s Why Investors are Betting Big on Beauty, Fashion & Wellness
+
+Investing in Retail and Fashion, Today and Tomorrow
+SPEAKERS
+
+Alex Garabedian​
+Investment Head​
+United Arab Emirates
+Chalhoub Group​
+
+Simone Dominici
+CEO
+United Kingdom
+Kiko Milano (Coty Inc.)
+12:30 PM - 12:40 PM
+October 18, 2023 | 10 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Presentation
+
+
+12:30 PM - 1:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | How we are making CPython faster? Past, present and future
+
+An overview of how we are speeding up Python, including future plans.
+SPEAKERS
+
+Mark Shannon
+Core Python Developer & Creator
+United Kingdom
+HotPy
+12:30 PM - 12:40 PM
+October 18, 2023 | 10 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Presentation
+
+
+12:35 PM - 2:40 PM
+October 18, 2023 | 125 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Testing with Python for Fun & Profit
+
+A practical overview of pytest, unittest and doctest. We'll look into the most popular testing frameworks for Python and write some code in order to become familiar with them and to compare their differences. Participants will need a laptop with Python 3 installed.
+
+SPEAKERS
+
+Alexander Todorov
+QA Guru & Python automation Tester, Founder & Creator
+Bulgaria
+Kiwi TCMS
+12:35 PM - 12:45 PM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | PechaKucha Session
+
+
+12:35 PM - 1:10 PM
+October 18, 2023 | 35 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Fireside Chat | Local Sourcing for Global Impact: Lowering Carbon Emissions Whilst Augmenting In-Country Value Creation
+
+Collaborative policies and partnerships across local suppliers to adopt climate disclosures
+Helping suppliers get started with sustainability: The role of corporates
+Building consumer confidence through local sourcing: Pathways to lower shipping and storage costs
+
+12:35 PM - 12:55 PM
+October 18, 2023 | 20 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Presentation Session - Predictive Maintenance for Building: Build and Design with BIM
+
+The operation and maintenance of buildings have seen several advances in recent years. Multiple information and communication technology (ICT) solutions have been introduced to manage building maintenance better. However, maintenance practices in buildings remain less efficient and lead to significant energy waste. In this panel, a predictive maintenance framework based on machine learning techniques will be presented. This framework aims to provide guidelines for implementing predictive maintenance for building installations.
+SPEAKERS
+
+Piero Pelizzaro
+Head of the National Building Innovation Hub
+Italy
+Italian State Property Agency
+12:40 PM - 12:50 PM
+October 18, 2023 | 10 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Future Fusions of Web3: Imagining Blockchain with AI, Robotics, IOT, Fintech and Quantum Computing
+
+
+12:40 PM - 1:00 PM
+October 18, 2023 | 20 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Unicorn Feature: Record-Breaking Language Processor
+
+
+12:40 PM - 1:25 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Smart Contracts for Artists and Copyright Management
+
+Explore how smart contracts can be used to automate royalty payments, copyright management, and licensing for artists and creators. This session will provide practical insights into coding these contracts.
+
+12:40 PM - 1:00 PM
+October 18, 2023 | 20 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Africa : Supercharge AI Startups in Africa
+
+• Ushering in a new era of collaborative, action-oriented knowledge sharing and policymaking
+• Efforts to help build and strengthen Africa’s nascent venture capital markets
+
+12:45 PM - 1:05 PM
+October 17, 2023 | 1420 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Fireside Chat: Unleashing the potential of AI in patient care.
+
+The AI in healthcare market is projected to skyrocket from USD 14.6 billion in 2023 to a staggering USD 102.7 billion by 2028. As hospitals in the US and Europe are already employing AI to assist hospitalized patients, the time has come to explore the limitless potential of AI in revolutionizing patient care. This session will discuss how AI is empowering healthcare professionals to deliver superior patient care and delve into real-world examples of AI applications that enhance patient monitoring, optimize resource allocation, and improve the overall quality of care.
+SPEAKERS
+
+Ralf Maier-Reinhardt
+SVP Global Head Digital Diagnostics Apps
+Switzerland
+Roche
+12:45 PM - 1:10 PM
+October 18, 2023 | 25 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Fireside Chat: The Golden Globes of Circumnavigating the Earth
+
+Immerse into the journey of a solo around-the-world sailing race that led to the circumnavigation of the earth on a small boat without any navigation equipment
+SPEAKERS
+
+Abhilash Tomy
+Retired
+India
+Indian Navy Officer
+12:50 PM - 1:35 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Web3 Loyalty, NFTs and Exploring the Metaverse, NFTs and Web3 Loyalty
+
+
+12:50 PM - 1:05 PM
+October 18, 2023 | 15 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Presentation | (R)evolution of Education
+
+• How can we balance the use of AR/VR with traditional training methods in education
+• What would be the ethical and psychological implications of using AR/VR in medical training
+• Challenges in implanting this on a larger scale
+SPEAKERS
+
+Mayank Dhingra
+Senior Education Business Leader SEMA
+United Arab Emirates
+HP
+12:55 PM - 1:35 PM
+October 18, 2023 | 40 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | In Tune with the Elements: Unlocking the Potential of Alternative Energy Sources
+
+- Reality check: Can we phase out oil and gas by 2050?
+- Decarbonisation strategies of global energy companies by 2030, 2040, and 2050
+- Technology-enabled pathways to cut down flaring, methane emissions across operational assets
+- What will be the expected share of clean energy alternatives, such as hydrogen, solar and wind, across global the energy mix by 2030?
+SPEAKERS
+
+Fazil Abdulrahiman
+VP, Sustainability
+United Arab Emirates
+TAQA
+
+Kevin Chalhoub
+Founder & CEO
+United Arab Emirates
+EVLAB
+
+Phil Hart
+Chief Researcher, Renewable & Sustainable Energy Research Center
+United Arab Emirates
+Technology Innovation Institute
+
+Sam Stark
+Founder
+United States of America
+Green Project Technologies
+12:55 PM - 1:35 PM
+October 18, 2023 | 40 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Panel Discussion - Urban Innovation: Leading the Data-Driven Development
+
+• Design and Technology, do they work hand-in-hand? Does designing get better with technology?
+• How are the use of LiDAR mapping, generative modeling & BIM reshaping design boundaries?
+• Data is the key! How can data support structures be constructed more effectively, decisions be made more quickly, and residents more comfortable?
+SPEAKERS
+
+Huang Zhongwen
+Director, Physical Planning North
+Singapore
+Urban Redevelopment Authority
+
+Lukas Sokol
+Head of Master Planning
+United Arab Emirates
+Masdar City
+
+Pardis Mirmalek
+Founder and CEO
+United States of America
+ARTAA AI
+
+Shane Mitchell
+Director, Advisory EMEA
+United Arab Emirates
+Parsons Corporation
+
+Srikanth Mulakaluri
+Founder and CEO
+United Arab Emirates
+Insticc Digital Solutions
+1:00 PM - 1:20 PM
+October 18, 2023 | 20 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation | Applied AI: Country wide scalability (topic TBC)
+
+
+1:00 PM - 1:20 PM
+October 18, 2023 | 20 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Flashstorm of Investments from the West: Analysing the Reasons Behind the Influx
+
+
+SPEAKERS
+
+Jack Selby
+Managing Director
+United States of America
+Thiel Capital
+
+Philip Bahoshy
+Founder & CEO
+United Arab Emirates
+Magnitt
+1:00 PM - 1:45 PM
+October 18, 2023 | 45 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | DEBATE HUB: Embedded Loyalty - Finding the Key Differentiators in Programmes and Rewards
+
+
+1:00 PM - 1:20 PM
+October 18, 2023 | 20 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+The Reality of Network Function Virtualization (NFV) and Cloud-native Architectures
+
+- Transitioning from legacy network architectures to cloud-native and NFV-based solutions
+- Benefits of NFV and cloud-native approaches in terms of scalability and agility
+- Managing and orchestrating virtualized network functions (VNFs) in telecom networks: The road ahead
+SPEAKERS
+
+Terje Jensen
+Senior Vice President, Network Technology
+Norway
+Telenor
+1:00 PM - 2:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Italy : Are the Gelatos Ready?
+
+A late bloomer on the startup tech ecosystem, Italy’s tech scene seems to be riding the wave since 2022 with exponential growth. An overview of the most funded sector and will the fashion industry be leading technological disruption?
+
+1:00 PM - 1:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Writing Faster Python 3
+
+A talk about source code optimization - how some common problems can be solved with more efficient code.
+SPEAKERS
+
+Sebastian Witowski
+Lead Developer
+Poland
+StatKraft
+1:00 PM - 2:30 PM
+October 18, 2023 | 90 Minutes
+UNPAID
+Impact BoardroomHall 28, Impact Boardroom GITEX ImpactDubai World Trade Centre
+Impact Investing: Shifting Investors' Mindset (By Invitation Only)
+
+The realm of investing is witnessing a notable shift towards impact investing, where financial returns are not the sole focus but also the positive impact on society and the environment. This session will explore the outlook for impact investing in 2023 and 2024, emphasizing the role of investors in driving this transformation in addition to exploring the potential risks and benefits associated with impact investing, providing participants with a comprehensive understanding of this growing investment approach.
+
+SPEAKERS
+
+Paul Ronalds
+CEO
+United Kingdom
+Save The Children
+1:00 PM - 2:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Ai WorkshopHall 29, Workshop Room A Ai everythingDubai World Trade Centre
+Unleashing the Power of AI-Driven Digital Twins in Industrial Applications
+
+Abstract: Join Pieter for the Generative Insights Workshop, where we delve into the revolutionary potential of AI-powered Digital Twins in industrial applications. This workshop will explore how the fusion of artificial intelligence and Digital Twins can transform various industries, enabling unparalleled insights and optimizing operations. Gain a comprehensive understanding of the capabilities, implementation strategies, and best practices for leveraging AI-driven Digital Twins. Prepare to unlock new possibilities and drive innovation by harnessing the power of generative AI and Digital Twins in your industrial endeavors.
+SPEAKERS
+
+Pieter Van Schalkwyk
+CEO
+United States of America
+XMPro Inc
+1:05 PM - 1:25 PM
+October 18, 2023 | 20 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Presentation - The Future of the Financial Sector Resilience: DORA and TIBER-EU
+
+Welcome to an exploration of two pillars shaping the future of financial sector resilience: DORA and TIBER-EU. DORA, the Digital Operational Resilience Act, stands as a sentinel for operational robustness. TIBER-EU, the embodiment of threat intelligence-based ethical red teaming, serves as the vanguard against emerging digital threats. In this presentation, we will delve into the strategic alignment between DORA's resilience testing imperatives and TIBER-EU's sophisticated simulations. Witness how these stalwarts converge to fortify cyber defenses, elevate compliance, and usher in a new era of financial resilience.
+SPEAKERS
+
+Jelena Matone
+CISO
+Luxembourg
+European Investment Bank
+1:05 PM - 1:30 PM
+October 18, 2023 | 25 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Panel Discussion: Data-driven transformation in Industry: Scaling AI for enterprise impact
+
+In today's dynamic business landscape, the success of AI initiatives is inextricably linked to the quality, accessibility, and diversity of data. As organizations seek to scale their AI capabilities, the development of a robust data strategy takes center stage. The panel will explore the pivotal role of AI-Powered Machines in accelerating Industrial Automation within the manufacturing sector and how data, AI, and automation collectively transform enterprises.
+SPEAKERS
+
+Awad Ahmed Ali EL Siddig
+Head of AI & Analytics
+United Arab Emirates
+Adnoc Distribution
+
+Carolina Pinart
+AVP, Group Head R&D IT
+Switzerland
+Nestle
+1:10 PM - 1:30 PM
+October 18, 2023 | 20 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Connections & Conversations
+
+This is the chance for the audience to become a contributor and share their views on what They’ve just heard and the latest industry trends. From how we as leaders and guardians of the future can ensure we are building back better and driving positive change to building meaningful relationships and how to trail new paths
+
+
+SPEAKERS
+
+Amina Taher
+Vice President Brand, Marketing & Sponsorships
+United Arab Emirates
+Etihad Airways
+1:10 PM - 1:40 PM
+October 18, 2023 | 30 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Corporate Innovation | Fireside: Rise of Corporate Investments and M&As in the Tech and Software Industry
+
+
+SPEAKERS
+
+Alex Garabedian​
+Investment Head​
+United Arab Emirates
+Chalhoub Group​
+1:10 PM - 1:25 PM
+October 18, 2023 | 15 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Keynote | Closing the Loop: Unleashing the Power of Circular Procurement Value Chains
+
+- Amplifying resource re-use and circularity in purchasing decisions
+- Optimizing the use of circular raw materials through transparency
+- Establishing waste standards and their impact on circularity and cost optimization
+
+1:15 PM - 2:00 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Lunch Break
+
+
+1:20 PM - 1:40 PM
+October 18, 2023 | 20 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat | Transitioning to a Holistic Digital Financial Infrastructure and Nurturing Next-Generation Talent
+
+
+SPEAKERS
+
+Assel Marchenko
+CTO & Deputy CEO, National Payment Corporation
+Kazakhstan
+The National Bank of Kazakhstan
+
+Naeem Aslam
+Columnist
+United Kingdom
+NASDAQ
+1:20 PM - 1:50 PM
+October 18, 2023 | 30 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+India Story: The Startup Revolution in the State of Kerala
+
+
+SPEAKERS
+
+Anoop Ambika
+CEO
+India
+Kerala Startup Mission
+
+Rathan Kelkar
+MD
+India
+Kerala Startup Mission
+1:20 PM - 1:40 PM
+October 17, 2023 | 1420 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Merge or Emerge: The Future of Telecom Technology and Investments
+
+- How are the shifting global dynamics of the telecom ecosystem impacting capital injection and M&A activity in the sector?
+- With fluctuating interest rates, how are telecom majors eyeing acquisitions and spearheading venture capital investments?
+- As satellite capacities, consumer solutions, and network sophistication increase, how are telcos investing in next-gen technologies to bolster their market positions?
+SPEAKERS
+
+Ada Ogbunude
+Telecom Investment Lead Middle East, Pakistan and Afghanistan
+United States of America
+International Finance Corporation (IFC)
+
+Ilya Kiykov
+Senior Vice President, Mergers & Acquisitions
+United Arab Emirates
+e& Strategy
+1:25 PM - 2:10 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Web3 and the Preservation of Cultural Heritage
+
+Discuss the technical challenges and opportunities of using Web3 technologies to preserve and digitize cultural heritage sites, artifacts, and traditions.
+
+1:25 PM - 1:45 PM
+October 18, 2023 | 20 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+CASE STUDY A missed log is a missed opportunity: How effective log management can fast-track your security program and provide insights into advanced threats
+
+This session will shed light on log management; an often-overlooked area of security. The focus will be on potential consequences for organizations, while also highlighting the business benefits that an effective log management program can offer. The presentation will draw on real-life cases where the adverse impact of not prioritizing log management was observed. Attendees will gain practical insights and a supporting framework and strategy to fast-tracking their log management journey, as well as guidance on how to apply these principles in their organizations.
+SPEAKERS
+
+Grant Hughes
+Principal Security Architect
+South Africa
+Engen Petroleum Limited
+1:25 PM - 1:55 PM
+October 18, 2023 | 30 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Fireside Chat | Redefining Organisational Buying Culture: Sustainability Strategies for Procurement Leaders
+
+- Extending green public procurement (GPP) capabilities in the government
+- Gaining board buy-in for sustainable buying through effective strategies
+- Integrating next-gen frameworks and setting targets aligned with UN SDGs
+- Leveraging data and analytics to drive sustainability objectives
+
+1:30 PM - 2:20 PM
+October 18, 2023 | 50 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Networking Lunch
+
+
+1:30 PM - 1:45 PM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Presentation: Generative AI media for the real world
+
+As generative AI continues to advance at an unprecedented pace, it is quickly becoming a driving force behind a range of exciting new applications across various industries. Particularly in the media industry, generative AI is powering countless new businesses and applications, from creating hyper-realistic images and videos to generating realistic text and speech.
+In the wake of these developments, problems have also emerged, including the potential for deepfakes, copyright concerns, backlash from artists and creatives, and disruption of education and assessments.
+During this talk, we will survey the most recent media applications enabled by generative AI, as well as an overview of the problems that have emerged in the wake of these developments. Finally, we will end off by taking a stab at future predictions for how generative AI will continue to shape our world.
+SPEAKERS
+
+Swee Kiat Lim
+Co-founder and CEO
+Singapore
+Pebblely
+1:30 PM - 3:45 PM
+October 18, 2023 | 135 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Forum | MEA InsureTech Association Program by Qatar Insurance Company (QIC)
+
+Rewiring The Insurance Industry With Digital Technologies
+
+The MENA InsurtechSummit deploys a deep dive conversation among the incumbents, insurtechstart-ups, reinsurers and tech companies on their transformation offerings towards faster customer service, accessibility of claims, flexible coverage, easy access to information and seamless consumer journey.
+1:30 PM - 2:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Python: From Supercomputer to Microcontroller
+
+In this talk we look at how Python has come to be used in such a huge range of applications, on everything from the smallest to the largest computing machinery in the world, and how Python's design has helped it achieve this level of success.
+SPEAKERS
+
+Steve Holden
+Technical Architect
+United Kingdom
+UK Dept of International Trade
+1:35 PM - 2:00 PM
+October 18, 2023 | 25 Minutes
+UNPAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX GlobalDubai World Trade Centre
+Leaders of Impact Summit | Redefining Tomorrow’s Skills: How Can Education Accelerate Global Sustainability
+
+- UN SDG 4: Quality Education – Where are we today and what needs to be done?
+- Global partnerships to educate the world: How can governments help?
+- Advancing research to nurture tomorrow’s leaders
+SPEAKERS
+
+Kristina Kallas
+Minister of Education and Research
+Estonia
+Ministry of Education and Research of the Republic of Estonia
+1:35 PM - 2:20 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Incentivizing User Engagement in a Token-Based Environment
+
+
+1:35 PM - 1:55 PM
+October 18, 2023 | 20 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Case Study - Harnessing AI for Urban Development
+
+
+SPEAKERS
+
+Huang Zhongwen
+Director, Physical Planning North
+Singapore
+Urban Redevelopment Authority
+1:40 PM - 1:55 PM
+October 18, 2023 | 15 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation | Leveraging ML to solve real world problems
+
+
+SPEAKERS
+
+Hicham El Habti
+President
+Morocco
+University Mohammed VI Polytechnic
+1:40 PM - 2:00 PM
+October 18, 2023 | 20 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+From Connectivity to Prosperity: The Role of Telecommunications in Driving Social and Economic Progress
+
+- How can fibre technology improve access to education and healthcare in communities with limited resources?
+- How can telecommunications contribute to sustainable development and environmental protection and help reduce the urban-rural divide?
+- What policies and regulations should be implemented to ensure equitable access to connectivity for all communities?
+SPEAKERS
+
+Norbert Prihoda
+Deputy CEO
+Tunisia
+Tunisie Telecom
+1:40 PM - 2:20 PM
+October 18, 2023 | 40 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Corporate Innovation | Are we Seeing More MENA Corporate Funds on the Block?
+
+
+1:45 PM - 2:30 PM
+October 18, 2023 | 45 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | MASTERMINDS' TALK: Super Apps Redefining the Future of Financial Services and Advancing Financial Inclusion
+
+
+1:45 PM - 2:00 PM
+October 18, 2023 | 15 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+The answer to AI attacks is not more AI
+
+
+
+SPEAKERS
+
+Trevor Dearing
+Director, Critical Infrastructure Solutions
+United Kingdom
+Illumio
+1:45 PM - 2:15 PM
+October 18, 2023 | 30 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Fireside Chat: Data driven alchemy: Transforming Big Data into AI Gold
+
+In the age of information abundance, organizations have at their disposal an ocean of data, waiting to be transformed into valuable insights and breakthrough innovations. This session delves into the art of thinking like a data scientist, unveiling the secrets to unlocking exponential business value from Data, Analytics, and AI. Discover how this alchemical approach can turn raw data into a golden opportunity for success and growth.
+SPEAKERS
+
+Edgar Perez
+CEO
+United States of America
+MrEdgarPerez.com
+
+Joe Reis
+Founder & CEO
+United States of America
+Ternary Data
+1:45 PM - 2:05 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Presentation | Integrating Emerging Technologies in the K12 curriculum
+
+• How AI and other emerging tech be effectively incorporated into the curriculum
+• Potential challenges educators might face when integrating AI and emerging tech
+• Impacts could the inclusion of AI and robotics in the curriculum
+SPEAKERS
+
+Sreejit Chakrabarty
+Director – Artificial Intelligence & Robotics
+United Arab Emirates
+Gems Education - UAE
+1:50 PM - 2:00 PM
+October 18, 2023 | 10 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Opening Remarks
+
+
+1:50 PM - 2:10 PM
+October 18, 2023 | 20 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+“Music in the soul can be heard by the universe.” ꟷ Lao Tzu
+
+Democratising Professional DJ Music: Making it Accessible to All
+SPEAKERS
+
+Cathy Guetta
+Co-Founder
+Spain
+Djaayz (CheersApp Ltd.)
+1:55 PM - 1:55 PM
+October 18, 2023 | 0 Minutes
+PAID
+CTO World CongressHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Close
+
+
+1:55 PM - 2:35 PM
+October 18, 2023 | 40 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Fireside Chat | Procurement as a Catalyst for Social Impact: Driving Responsible and Inclusive Sourcing
+
+- Leveraging procurement's role in advancing social impact and sustainability
+- Promoting responsible and inclusive sourcing practices
+- Collaborating with suppliers to address social issues and drive positive change
+
+1:55 PM - 2:10 PM
+October 18, 2023 | 15 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Innovation Showcase Session
+
+
+2:00 PM - 2:10 PM
+October 18, 2023 | 10 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Keynote: Hyper-connected cognitive city of the future
+
+By 2050, it is estimated that 80% of the world's population will live in cities. This means that cities must be designed to be more efficient, sustainable and livable to meet the needs of a rapidly urbanizing population. This session will explore how advancements in AI, IoT, and other emerging technologies are transforming our cities into intelligent and efficient ecosystems that prioritize human wellbeing.
+
+SPEAKERS
+
+Dr. Mohamed Abdelhameed Al Askar
+Director-General
+United Arab Emirates
+TAMM Program
+2:00 PM - 2:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Sustainable Value Chains: Breitling’s Industry-Leading Transition to Lab-Grown Diamonds
+
+- Enabling full-scope product traceability
+- Social impacts along the value chain
+- Environmental impacts along the value chain
+
+SPEAKERS
+
+Aurelia Figueroa
+Global Director of Sustainability
+Switzerland
+Breitling
+
+Nadia Boumeziout
+Head of Sustainability and Information Governance
+United Arab Emirates
+Zurich Insurance
+2:00 PM - 2:40 PM
+October 18, 2023 | 40 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Securing Telecommunications in the AI and Quantum Era
+
+- Securing the new gold: Data security and privacy considerations for telecom providers
+- Quantum-inspired secure multi-party computation (MPC) for privacy preservation
+- Prepping up: Leveraging AI and Quantum to thwart AI and Quantum originated attacks
+SPEAKERS
+
+Celia Mantshiyane
+Chief Information Security Officer
+South Africa
+MTN (Mobile Telephone Network)
+
+Walaa SalahEldeen
+Group Cyber Security & Innovation Senior Consultant
+Egypt
+Telecom Egypt
+2:00 PM - 4:00 PM
+October 18, 2023 | 120 Minutes
+PAID
+GITEX Impact - Planet LabsHall 28, Impact Workshop Room GITEX ImpactDubai World Trade Centre
+Accounting and Reporting Sustainability: How Can Finance Leaders Embrace ESG?
+
+As sustainability gains prominence, finance leaders play a critical role in integrating environmental, social, and governance (ESG) considerations into financial reporting. This session will provide insights into the latest reporting standards introduced by the International Sustainability Standards Board (ISSB). Participants will gain practical knowledge on leveraging financial expertise to embrace ESG principles and effectively communicate sustainability performance to stakeholders.
+
+2:00 PM - 3:00 PM
+October 18, 2023 | 60 Minutes
+PAID
+Ai WorkshopHall 29, Workshop Room A Ai everythingDubai World Trade Centre
+Unlocking the talent sourcing constraints: tech to do the impossible, increase quality and speed while reducing costs.
+
+Join this unique workshop to learn a practical framework for measuring the impact of new technologies on your HR function. This workshop will use proprietary data to measure the impact new technologies like AI are having on HR via applying a proven framework from project management to HR, the so-called triple constraint, to a new talent sourcing technology called a recruitment agency marketplace. If you've never heard of these before, then you need to come along to make sure you can:
+
+1. Know the tradeoffs between different approaches to solving the same problem in HR (in this case talent sourcing)
+2. Discover how we can measure this holistically and prove the business case of using technology (like recruitment agency marketplaces)
+3. See practically what financial, speed and quality benefits can arise by scientifically quantifying the value such HR technologies provide.
+
+This session would be suitable for CHRO, SVP of HR, VP of HR/talent acquisition, senior managers and managers in HR functions in medium to enterprise businesses who are looking for a way to better compete in the most difficult talent wars we have ever faced. Walk away with new tools and frameworks to measure division performance to elevate it to the next level.
+SPEAKERS
+
+Evan Shellshear
+Global CEO & MD
+Australia
+Ubidy
+2:00 PM - 2:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+CYBER LEADERS OF AFRICA Empowering Cybersecurity for Economic Development in Africa and Beyond
+
+Discover how Africa can leverage local talent to drive IT companies and develop proprietary solutions with global reach. Delve into critical cybersecurity challenges in Africa, focusing on cyber-resilience, incident management, and addressing the human factor of expertise and skill development. Discuss the importance of African cooperation in shaping national cybersecurity strategies for a sustainable digital transformation.
+SPEAKERS
+
+Albert Antwi-Boasiako
+Cyber Security Authority
+Ghana
+Ghana Cyber Security Authority
+
+Lydie Ngo Nogol
+CISO Francophone Africa
+Cameroon
+PwC
+
+Sanusi Drammeh
+Director of Cybersecurity
+Gambia
+Ministry of Communications & Digital Economy (MOCDE)
+
+Solomon Soka
+Director General
+Ethiopia
+Information Network Security Administration (INSA)
+2:00 PM - 2:45 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Panel discussion : Sustaining a successful business legacy : Lessons for young entrepreneurs from UAE's business legends
+
+This panel discussion will feature prominently successful businessmen and women from the UAE, who will share their
+experiences and learnings with the aspiring entrepreneurs and youth in audience
+2:00 PM - 2:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Creating a Coding Culture
+
+This talk will explore how certain educational patterns and techniques foster a sustainable coding culture, with practical examples and real life lessons learned from significant long-term work done in the UK, Ghana and internationally online.
+
+SPEAKERS
+
+Nicholas Tollervey
+Principal Engineer at PyScript
+United Kingdom
+Anaconda, Inc.
+2:00 PM - 3:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Berlin : Navigate Investor Perspectives & Opportunities from
+
+The investor landscape is diverse and evolving, depending on the linguistic divisions and geographic locations. How can we influence the legal systems, political dynamics, infrastructure gaps to create unique opportunities and challenges for different regions?
+
+2:05 PM - 2:25 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Presentation | Exploring the Potential of Alternative Education Systems with AI, better or just different.
+
+• Are alternative education systems truly designed to train a student better?
+• Does alternative education systems address the unique learning needs of individual.
+• What evidence based results of this new learning system
+SPEAKERS
+
+Navid Nathoo
+Founder
+Canada
+The Knowledge Society
+2:10 PM - 2:20 PM
+October 18, 2023 | 10 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat: The multi-faceted journey of digital transformation
+
+
+2:10 PM - 2:30 PM
+October 18, 2023 | 20 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Investor Highlight!
+
+
+2:10 PM - 2:20 PM
+October 18, 2023 | 10 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Presentation
+
+
+2:10 PM - 2:50 PM
+October 18, 2023 | 40 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Utility Leaders Discussion - Manual Monitoring to AI-Enabled Utility Systems
+
+• Role of AI in monitoring and reducing waste and water in future urban cities.
+• If technology fails, is there an instant recovery system? Or are we tied down to IoT systems working?
+• Can a real circular economy turn the tide against climate change?
+• How can people benefit from such technologies? Is it just adding to their maintenance cost?
+SPEAKERS
+
+Ahmed Abdelhady
+Director of Quality and Environmental
+Egypt
+Holding Company for Water and Waste Water
+
+Alby Bocanegra
+Founder and Former CTO of NYC
+United States of America
+The Urban Futurist, Inc.
+
+Andreas Thanos
+Policy Specialist
+United States of America
+MA Department of Public Utilities
+
+Mohab Ali Talib Al-Hinai
+VP - Sustainability and Circular Economy
+Oman
+Oman Environmental Services Holding Company (be'ah)
+2:15 PM - 2:35 PM
+October 18, 2023 | 20 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Adopting a Human-Centered Approach to AI
+
+- Answering the profound question – can companies be data-driven and fair to customers?
+- Acknowledging the people behind the data, who own it, how we are using it, and consent
+- Defining and regulating the synergy between humans and machines for responsible use of AI
+SPEAKERS
+
+Anish Agarwal
+Global Head of Analytics
+India
+Dr. Reddy’s Laboratories
+2:20 PM - 2:35 PM
+October 18, 2023 | 15 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation: On the Importance of R&D in the National GDP and Economy
+
+In his speech, Dr. Ray O. Johnson will highlight the critical role of R&D in enhancing the country’s GDP and economy through strategic investments in emerging technologies and innovations. Dr. Johnson will explore these concepts further by touching upon their benefits in diversifying the economy, attracting foreign investment, and boosting productivity across all sectors. The talk will showcase the UAE’s vision to strengthen economic resilience and foster sustainable development – enabling it to position itself as a global hub for cutting-edge research and innovation.
+2:20 PM - 2:40 PM
+October 18, 2023 | 20 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Conference Host Remarks
+
+
+SPEAKERS
+
+Khaled Ismail
+CEO
+United Arab Emirates
+TOUGHLOVE Advisors
+2:20 PM - 3:00 PM
+October 18, 2023 | 40 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Corporate Innovation | Aerospace Vision: The Role of Collaborative Programmes to Keep Innovation Alive
+
+- Challenges facing innovators in aerospace sector
+- What role can industry leaders and policymakers play?
+- What do the investors want to see and what do the founders need?
+2:20 PM - 2:30 PM
+October 18, 2023 | 10 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Presentation
+
+
+2:20 PM - 3:05 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Smart Contracts and Decentralized Advertising
+
+
+2:25 PM - 2:45 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat | Information Accessibility in the Age of AI: Challenges and Opportunities for the Future of Work
+
+• How is AI impacting information accessibility in the workforce?
+• What opportunities does AI-driven information access create for careers?
+• How can we ensure ethical information access in the AI era?
+SPEAKERS
+
+Carolina Pinart
+AVP, Group Head R&D IT
+Switzerland
+Nestle
+
+Dan Westgarth
+Co-Founder & COO
+United States of America
+Deel
+2:25 PM - 2:40 PM
+October 18, 2023 | 15 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Keynote presentation: Leverage Jedi Mind Powers in Content Creation
+
+• How to boost your content strategy for 2024 using ChatGPT? Learn how to streamline content creation and automate various optimization aspects using this tool.
+• Understand your key audience segments and interests - How to use emerging social trends to create your content strategy
+• How are brands using ChatGPT's SEO and content optimization capabilities to maximize their content marketing strategy?
+• Create customer-centric & customer-led storytelling to enhance brand experiences
+
+SPEAKERS
+
+Anja Petrovski
+Marketing Director
+United Arab Emirates
+Volkswagen Middle East
+2:30 PM - 3:15 PM
+October 18, 2023 | 45 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | MASTERMINDS' TALK: Bridging the Great Divide in the Online to In-store Customer Journey
+
+
+2:30 PM - 3:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Celebrating Excellence: Final Award Distribution for IoT & AI Challenge
+
+
+2:30 PM - 5:00 PM
+October 18, 2023 | 150 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+CyTaka World Cyber Championship
+
+
+2:30 PM - 2:50 PM
+October 18, 2023 | 20 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Consumer Power: Sustainability in Everyday Products
+
+- The evolution of sustainable product strategy in the FMCG industry: Accomplishments, lessons, and the way forward
+- Incorporating sustainable practices in consumer goods: Balancing consumer demand, cost, and environmental impact
+- Initiatives towards sustainable packaging and waste reduction: A sector-wide perspective
+SPEAKERS
+
+David Croft
+Group Head of Sustainability
+United Kingdom
+Reckitt
+
+Nadia Boumeziout
+Head of Sustainability and Information Governance
+United Arab Emirates
+Zurich Insurance
+2:30 PM - 3:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Python for Progress: Creating Impactful Communities in Africa
+
+Through case studies and examples, we will illustrate how these best practices have been applied in various African communities, highlighting the challenges encountered and the lessons learned in the process. We will also discuss how community builders can leverage available resources and overcome potential obstacles to build sustainable and impactful Python communities in Africa.
+
+SPEAKERS
+
+Aisha Bello
+Co-Chair Python Nigeria, Sr. Solutions Architect
+Canada
+AWS
+2:30 PM - 3:15 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Blockchain for Provenance and Authentication of Artifacts
+
+Dive into the technical aspects of using blockchain to establish the provenance and authentication of cultural artifacts, including artwork, historical documents, and more
+2:35 PM - 3:05 PM
+October 18, 2023 | 30 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Panel Discussion: Digital City 2050: What will the digital city of the future look like?
+
+The future is now and cities are rapidly transforming into digital ecosystems. The digital city of 2050 is a bold and exciting vision of urban life. Imagine a city where everything you need is at your fingertips – from self-driving cars to highly intelligent buildings and homes. The smart city of the future will be an interconnected matrix of information, data, and technology that will revolutionize the way we live, work, and play. Featuring advanced technologies such as AI, AR, VR, and IoT, this city will reshape the landscape of urban life.
+
+SPEAKERS
+
+Daniel Diez
+Chief Transformation Officer
+United States of America
+Magic Leap
+
+David Tan
+Assistant Chief Executive Officer (Development Group)
+Singapore
+JTC Corporation
+
+Muneer Zuhdi
+CTO Enterprise CHIMEA
+Finland
+Nokia
+
+Petr Hlavacek
+Deputy Mayor
+Czech Republic
+City of Prague
+
+Romalice Ishimwe
+Chief Digital Officer
+Rwanda
+Ministry Of Infrastructure
+2:35 PM - 3:05 PM
+October 18, 2023 | 30 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Panel Discussion: Reshaping industries: How digital transformation is rewriting the rules of business according to UAE Leaders
+
+Hear from UAE's own visionaries how they are disrupting industries and fearlessly navigate the unpresidented transformation of their organizations with Data, Analytics and AI. This session will provide insights into the pioneering work that these world-class leaders are implementing to provide exceptional business value, both economically as well as being catalists to transform the organizational culture to be data value driven. Explore how these leaders monetize their organizations data and insights, implement ground-breaking AI solutions while ensuring regulation, ethics and diversity and inclusion is not just adhered to, but leveraged for a competitive advantage.
+SPEAKERS
+
+Arshi Ayub Zaveri
+CEO
+United Arab Emirates
+Trust With Trade Group
+
+Garry Ure
+Head of Data Enablement
+United Arab Emirates
+Zand
+
+Vineesha Satwani
+Regional thought leader & Advisor
+India
+Digital & Emerging Tech
+2:35 PM - 2:50 PM
+October 18, 2023 | 15 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Keynote | Sustainable Innovation in Supply Chains: Fostering Creativity for a Greener Future
+
+- Promoting innovation and creativity among suppliers for sustainable products/services
+- Leveraging supplier relationships to drive sustainability-focused R&D collaborations
+- Showcasing successful examples of sustainable innovation in supply chains
+2:40 PM - 2:50 PM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | PechaKucha Session
+
+
+2:40 PM - 2:45 PM
+October 18, 2023 | 5 Minutes
+PAID
+Intelligent Connectivity/5GHall 1, Blue Stage GITEX GlobalDubai World Trade Centre
+Closing Remarks
+
+
+2:40 PM - 4:45 PM
+October 18, 2023 | 125 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Iterators, Generators, Coroutines and asyncio
+
+Building from Python's iterator protocol through asyncio for efficient I/0. This workshop starts with a deep, hands-on explanation of Python's iterator protocol, a fundamental technique, when crunching large datasets with high performance. It builds from these basics through generators, and eventually to asyncio, an essential tool for boosting network application performance.
+
+SPEAKERS
+
+Uche Ogbuji
+Co Founder
+United States of America
+Zepheira & Library.Link
+2:45 PM - 3:05 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Presentation | AI-Driven STEM Education: Empowering Future Innovators
+
+Explore the transformative power of AI and EdTech in promoting STEM education, nurturing the next generation of scientists, engineers, and tech leaders.
+SPEAKERS
+
+Qaiser Khan
+Entrepreneurship Expert at Said Business School
+United Kingdom
+Oxford University
+2:45 PM - 3:30 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | The futurepreneurs - On stage podcast session, hosted by Path Finders and Unipreneur
+
+
+2:50 PM - 3:20 PM
+October 18, 2023 | 30 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Fireside Chat: Content Spotlight Session: Can Video-First Strategy Organically Improve Traffic?
+
+Learn about the future of video in marketing – the hand in glove boost for SEO search. Maximize your creative strategy, scale video production and increase effectiveness through a more personalized approach to social
+
+2:50 PM - 3:10 PM
+October 18, 2023 | 20 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Creating Lasting Impact: The Power of Sustainable Fashion and Responsible Consumption
+
+- The environmental impact of the fashion industry: What we need to know
+- Making sustainable fashion more accessible
+- From fast-fashion to circular fashion by 2030: Closing the loop
+
+SPEAKERS
+
+Gregg Meyer
+Chief Sustainability Officer
+United States of America
+Steve Madden
+2:50 PM - 3:10 PM
+October 18, 2023 | 20 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Fireside chat | Transparency and Traceability in Procurement: Ensuring Ethical and Sustainable Supply Chains
+
+Emphasizing transparency and traceability in procurement processes
+Addressing ethical considerations and promoting responsible sourcing
+Utilizing technology solutions for supply chain transparency and traceability
+
+SPEAKERS
+
+Heather Buchanan
+Director and Co-Founder
+United Kingdom
+Bankers for Net Zero
+2:50 PM - 3:10 PM
+October 18, 2023 | 20 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Case Study - Turning the Local Authority into a Beta Site for New Technologies Demonstrations
+
+
+SPEAKERS
+
+Dorit Banet
+CEO
+Israel
+Eilat Eilot Renewable Energy
+3:00 PM - 5:00 PM
+October 18, 2023 | 120 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Supernova Finals: Unveiling the World's Premier Startup Pitch Competition
+
+
+The biggest startup pitch competition globally brings the opportunity to find the next unicorn!
+Seizing the chance: $200,000 cash prize
+
+
+3:00 PM - 4:30 PM
+October 18, 2023 | 90 Minutes
+UNPAID
+Impact BoardroomHall 28, Impact Boardroom GITEX ImpactDubai World Trade Centre
+Next-gen Supply Chains: Transparent, Traceable, and Sustainable Procurement (By Invitation Only)
+
+Supply chains play a vital role in driving sustainable practices across industries. This session will emphasize the importance of supply chain transparency and traceability in achieving sustainability goals. Participants will explore methods to identify and address sustainability issues within supply chain management, with a focus on sustainable sourcing practices that contribute to supply chain resilience. The session will also showcase innovative approaches and technologies that can enhance supply chain sustainability.
+
+SPEAKERS
+
+Antoine Martin-Regniault
+Business Sustainability Ratings Lead
+France
+EcoVadis
+
+Christian Becker
+Solutions Consultant MENA
+United Arab Emirates
+Ivalua
+
+Stephen Carter
+Director of Product Marketing
+United Arab Emirates
+Ivalua
+3:00 PM - 4:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Rising Series | Investors Watch: Why do Most Startups Fail to Deliver the Anticipated Returns?
+
+
+3:00 PM - 3:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Developing a culture to write reliable and performant services at scale
+
+Python is a programming language known for its usefulness and ease of readability, making it an excellent choice for quickly creating services. These services can be scaled to millions of users. However, a myriad of problems comes hidden with it during the development phase if observability-driven development is not followed like the inability to meet the SLAs, poor performance, difficulty in tracking business metrics, etc and this can lead to anti-patterns in software. Metrics such as these can be valuable for root cause analysis, driving business goals, component-level monitoring, improving performance, and so on. In this presentation, I will discuss how to adhere to best practices for observability and reliability when building a Python service from the ground up. I will explain the meaning of each concept, how to establish a culture that promotes these practices and provide a detailed code walkthrough demonstrating how to implement these concepts effectively.
+SPEAKERS
+
+Harshit Prasad
+Software Engineer
+India
+Blinkit
+3:00 PM - 4:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Israel : Israel’s Investments in Deep Tech & Space Tech
+
+Explore Israel’s flourishing space tech investments as it continues to be a hotbed of innovation with global expansion on its coattails
+
+3:05 PM - 3:35 PM
+October 18, 2023 | 30 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Panel Discussion: Expanding horizons: Smart cities and the evolution of 5G technology
+
+According to Gartner's forecast, by the completion of 2024, 5G service encompassing Tier-1 cities will be commercially available for 60 percent of communication service providers. The implementation of 5G in smart cities has the potential to revolutionize how cities operate, enhance the functionality and effectiveness of infrastructure and services, and take them to the next level of innovation and efficiency. However, it requires significant investment, planning, and collaboration between stakeholders.
+
+SPEAKERS
+
+Daouda Gueye
+Deputy Mayor
+Senegal
+Municipality of DAKAR
+
+Philipp Rösler
+Former Vice-Chancellor of Germany; Board Member
+Germany
+Acronis
+
+Sahem Azzam
+Senior Vice President Middle East, Africa and Turkey
+United Arab Emirates
+Orange Business
+3:05 PM - 3:15 PM
+October 18, 2023 | 10 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Introduction speech
+
+
+3:05 PM - 3:25 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat | AI & Future Work: Upskilling, Readiness, Challenges
+
+• Why is rapid reskilling/upskilling essential for staying competitive?
+• How does AI integration enhance the effectiveness of these programs?
+• How will upskilling have an overall impact on the future of work?
+SPEAKERS
+
+Shameem Farouk
+Executive Vice President, Head of Digital Capability Building
+Malaysia
+Maybank
+3:05 PM - 3:50 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Privacy and Data Security in Web3 Marketing
+
+With the rise of Web3, the importance of user privacy and data security has never been greater. This session will cover the challenges and solutions associated with protecting customer data in decentralized ecosystems. Learn how blockchain and cryptography can enhance data security while maintaining transparency and user control.
+
+3:05 PM - 3:20 PM
+October 18, 2023 | 15 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Case-study: Generative AI: Future of work and learning
+
+2023 marks the year where Generative AI came into minds of many. In this illuminating talk, Koo Ping Shung will delve into the pivotal role of embracing technology to remain effective in today's rapidly evolving workplace. With examples, Koo is going to showcase how Generative AI, when understood and harnessed correctly, can lead to significant productivity gains. However, the journey is not without challenges. Koo will also address key considerations to ensure the technology's responsible and efficient usage. By understanding and leveraging technology, both employees and employers stand to reap unparalleled benefits in their workspaces. Join us to explore the symbiotic relationship between Generative AI and modern work.
+SPEAKERS
+
+Koo Ping Shung
+Co Founder
+Singapore
+AI Professionals Association - Singapore
+3:10 PM - 3:40 PM
+October 18, 2023 | 30 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Greening the Skies: Can We Deliver Net Zero Aviation By 2050?
+
+- Sustainable Aviation Fuels: Cutting emissions by up to 80%
+- Evaluating alternative and New fuels: Reality Check
+- Carbon offsetting and reduction strategies
+- Engineering for sustainable aviation
+- Digital solutions for cleaner airlines
+
+SPEAKERS
+
+Erin Beilharz
+Head of Strategic Innovation Partnerships
+Germany
+Lufthansa Group
+3:10 PM - 3:30 PM
+October 18, 2023 | 20 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Presentation Session - Securing the Future of Mobility
+
+
+SPEAKERS
+
+Dimitri van Zantvliet
+Cybersecurity Director / CISO
+Netherlands
+Dutch Railways
+3:15 PM - 3:45 PM
+October 18, 2023 | 30 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | IN DIALOGUE: Embedded Lending : From P2P to BNPL - Balancing Responsibility and Technology in Emerging Markets
+
+
+3:15 PM - 3:50 PM
+October 18, 2023 | 35 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Speech
+
+
+SPEAKERS
+
+Danny Yatom
+Former Head
+Israel
+Mossad
+
+Isaac Ben Israel
+Former Chairman
+Israel
+Israel Space Agency
+
+Mohamed Al-Kuwaiti
+Head of Cybersecurity
+United Arab Emirates
+UAE Government
+3:15 PM - 4:00 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | Community-Driven Art Projects with DAOs
+
+Exploring how Decentralized Autonomous Organizations (DAOs) are being used to fund and manage community-driven art and cultural projects.
+
+3:20 PM - 3:30 PM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | PechaKucha Session
+
+
+3:20 PM - 4:00 PM
+October 18, 2023 | 40 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Women in Leadership Panel Discussion: AI for Social Good: How women are driving positive impact through technology
+
+From empowering underserved communities to addressing critical global challenges, discover how women are leveraging AI to tackle pressing social issues. We will delve into compelling case studies, showcasing AI-driven solutions that are making a real difference in healthcare, education, environmental conservation, and more. Explore the unique perspectives and approaches that women bring to AI development, fostering ethical and inclusive technology.
+SPEAKERS
+
+Amnah Ajmal
+EVP, Market Development EEMEA
+United Arab Emirates
+Mastercard middle east Africa
+
+Carolina Pinart
+AVP, Group Head R&D IT
+Switzerland
+Nestle
+
+Coral Movasseli
+Founder
+United Kingdom
+All in Tech Global
+
+Debbie Botha
+Chief Partnership Officer
+United Arab Emirates
+Women in AI
+
+Hanan Salam
+Co-Founder
+United Arab Emirates
+Women in AI
+
+Solmaz Rashidi
+CDO/CAO
+United States of America
+Estée Lauder, Sony Music, and Merck
+3:25 PM - 3:45 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Case Study | AI Transforming Teaching and Learning - What Lies Ahead?
+
+Explore the transformative potential of AI in education and how it will revolutionize teaching and learning. Join the experts to envision the future of education for both teachers and students.
+SPEAKERS
+
+Derval O'Neill
+Founder
+Italy
+CodEng
+3:30 PM - 4:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Keynote Casestudy: McDonalds & Mastercard Collaboration
+
+A deep dive on enhanced customer experience by Mastercard with the acquisition of Dynamic Yield, McDonald’s cutting-edge personalization platform
+
+3:30 PM - 4:00 PM
+October 18, 2023 | 30 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Youth feedback & ideation
+
+Feedback and ideas to carry forward the creative momentum generated at GITEX YouthX
+3:30 PM - 4:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Myrge – Generative AI and Human-powered Code Reviews as a Service
+
+bp’s Myrge team have developed a novel and highly scalable approach to accomplish code reviews with a 15 minute SLA. In this talk I will cover the power of human-AI teams and how they can optimize quality control, lead to a faster learning cycles, and are able to solve more complex problems than humans or machines could independently. Finally, I will discuss how we are using Myrge as a tool to increase developer velocity and transform culture.
+SPEAKERS
+
+Franziska Bell
+Chief Digital Officer
+United States of America
+Bp
+3:30 PM - 3:35 PM
+October 18, 2023 | 5 Minutes
+UNPAID
+Chief Procurement Officers ForumHall 28, Impact in Action GITEX ImpactDubai World Trade Centre
+Closing Remarks
+
+
+3:30 PM - 3:50 PM
+October 18, 2023 | 20 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Case Study - Always Ready, Never Resting: Building Resilient Cities Through Effective Public Safety and Emergency Preparedness
+
+• How can urban areas build resilience through effective public safety measures and emergency preparedness?
+• How can cities improve their preparedness for health emergencies?
+• The role of technology in boosting urban resilience: How can smart city technologies aid in disaster risk reduction?
+3:35 PM - 3:50 PM
+October 18, 2023 | 15 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation: The use of blockchain technology to enhance trust and security in city services
+
+The future of city services is here. Blockchain technology is transforming the way we trust and secure our urban environment. From reducing fraud and providing transparency, to enhancing citizen engagement and streamlining processes, the potential of blockchain technology in cities is limitless. In fact, studies show that by 2025, the global blockchain market is expected to reach $39 billion. This session will explore the exciting possibilities of blockchain technology for city services.
+
+SPEAKERS
+
+Chen-Yu Lee
+Director
+Taiwan (R.O.C)
+Taipei Smart City Project Management Office (TPMO)
+3:40 PM - 4:00 PM
+October 18, 2023 | 20 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | From Pitstop to Planet: Steering Motorsports Towards Sustainability
+
+- Unpacking the journey towards sustainable motorsports: An exploration of challenges faced, milestones achieved, and the roadmap ahead
+- The role of electric vehicles in transforming the landscape of professional racing
+- Successful sustainability initiatives within the motorsport sector, highlighting their broader influence on the advancement of green technologies and climate conservation efforts
+SPEAKERS
+
+Julia Palle
+Sustainability Director
+France
+Formula E
+3:45 PM - 4:30 PM
+October 18, 2023 | 45 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | DEBATE HUB: Fame, fashion and Technology Paving a New Path for eCommerce
+
+
+3:50 PM - 4:05 PM
+October 18, 2023 | 15 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Presentation: Building the foundations of a Digital City: Integrated ICT infrastructure for digital urbanization
+
+In the quest to build the foundations of a digital city, the integration of ICT infrastructure stands as a testament to human ingenuity and our unwavering pursuit of progress. It represents the convergence of technology and humanity, empowering citizens, and shaping urban landscapes that epitomize efficiency, sustainability, and inclusivity. This session will shed light on the intelligent network infrastructure that forms the backbone of a digital ecosystem and discuss how integrated ICT solutions enable the convergence of smart transportation, healthcare, energy, education, and public services, creating synergies and unlocking new possibilities for citizen well-being, economic growth, and sustainable development.
+
+3:50 PM - 4:35 PM
+October 18, 2023 | 45 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | Tokenomics and the Future of Incentive-Based Marketing
+
+Explore the concept of tokenomics and its role in Web3-powered marketing strategies. This session will delve into the use of crypto tokens to incentivize customer engagement, loyalty, and participation within decentralized ecosystems. Learn how token-based incentives can revolutionize marketing campaigns and foster community-driven growth
+
+3:50 PM - 3:55 PM
+October 18, 2023 | 5 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Closing Remarks by MC
+
+
+3:50 PM - 4:10 PM
+October 18, 2023 | 20 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Global CISO Panel discussion
+
+
+3:55 PM - 4:05 PM
+October 18, 2023 | 10 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Case Study | Will smarter connected IOT devices lead to better learning retention at educational institutions?
+
+• Generative AI be used to customize and enhance the learning experience
+• Will be an end to tadeonal teaching method
+• Challenges might we face when integrating generative AI into learning environments
+4:00 PM - 4:30 PM
+October 18, 2023 | 30 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Case Study: The Crumble of the Fortune Cookie
+
+• Cookies will become more sophisticated and allow for more targeted and personalized marketing with first party data - What are the ad strategies without using third party data?
+• First party data to champion security and privacy? Analyzing the future without the 3P’s
+
+4:00 PM - 4:05 PM
+October 18, 2023 | 5 Minutes
+UNPAID
+Web3 ProgrammeHall 8, Web3 Arena Future Blockchain SummitDubai Harbour
+Web3 Arts & Culture | END OF DAY4
+
+
+4:00 PM - 5:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Youth X ProgramHall 1, YouthX Expand North StarDubai Harbour
+GITEX YouthX Unipreneur 2023 | Theatrical Throwdown (Drama Competition on the themes of business, innovation and social impact)
+
+
+4:00 PM - 4:00 PM
+October 18, 2023 | 0 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Women in AI Awards
+
+
+4:00 PM - 4:05 PM
+October 18, 2023 | 5 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Leaders of Impact Summit | Closing Remarks by MC
+
+
+4:00 PM - 4:45 PM
+October 18, 2023 | 45 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Panel Discussion: Skills 2.0 in an era of software 2.0
+
+
+4:00 PM - 5:00 PM
+October 18, 2023 | 60 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Spotlight Brasil : Amazonia Innovation in the Start-up Economy
+
+
+4:05 PM - 4:35 PM
+October 18, 2023 | 30 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Panel Discussion: Smart Cities: the AI r/evolution. Leading edge developments in Scandinavia, China and Africa
+
+This discussion will unravel the remarkable advancements taking place in smart cities across continents. In the Scandinavian realm, smart cities are at the forefront of sustainability and citizen well-being. From smart mobility solutions to energy-efficient infrastructure and citizen-centric services, these cities embody the cutting edge of AI-driven innovation. But the journey doesn't end there. We will delve into China's awe-inspiring smart cities, where AI is embraced on an unprecedented scale. Explore how AI algorithms optimize traffic flow, enhance public safety, and shape urban planning. And let us not forget the transformative power of smart cities in Africa. Witness how AI-driven solutions are addressing unique challenges, empowering communities, and propelling economic growth. Explore how data analytics, IoT, and AI-enabled agriculture revolutionize farming practices, ensuring food security and sustainable development.
+
+SPEAKERS
+
+Alan Boyd
+Chairman
+United Kingdom
+Metadventures, Ltd
+
+Dr. Yinian Mao
+General Manager
+China
+Meituan Drone Delivery
+
+Gregory Shea
+Chairman
+Hong Kong Special Administrative Region
+BYG Advantage
+
+Richard Leaver
+Managing Director
+United Kingdom
+Greybrook Limited
+4:05 PM - 4:25 PM
+October 18, 2023 | 20 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Fireside Chat | AR enabled Immersive Tech Labs: A Leap Towards Futuristic Learning
+
+• Potential benefits and challenges of integrating Immersive Tech Labs into university curriculum
+• Immersive Tech Labs transform the learning experience
+• Potential impact of Immersive Tech Labs on traditional teaching methods
+SPEAKERS
+
+Valerie Hawley
+Director
+United Arab Emirates
+Sorbonne Centre for Artificial Intelligence
+4:10 PM - 4:15 PM
+October 18, 2023 | 5 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Photo Session
+
+
+4:20 PM - 4:50 PM
+October 18, 2023 | 30 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Competition 'AI Machine against Hackers'
+
+During the competition, there will be inspirational speeches by:
+SPEAKERS
+
+Shimon Hefetz
+Retired Brigadier General
+Israel
+Israel Defense Forces (IDF)
+
+Vitalie Pirlog
+Former Chairman of the Commission of Files
+Israel
+INTERPOL
+
+Yigal Unna
+Former Director General
+Israel
+Israel’s National Cyber Directorate
+4:30 PM - 5:00 PM
+October 18, 2023 | 30 Minutes
+PAID
+Fintech Surge - Digital Banking and Finance SummitHall 7, The Summit Stage Fintech SurgeDubai Harbour
+Future of Retail, AI & Paytech | END OF DAY
+
+
+4:30 PM - 4:40 PM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | The Marketing Society Scholarship 2023 Graduation
+
+The Marketing Society will officially congratulate all of our UAE Scholarship class of 2023. In partnership with TikTok we launched our scholarship – celebrating 50 of the best young talents in the UAE marketing community
+
+4:30 PM - 4:35 PM
+October 18, 2023 | 5 Minutes
+PAID
+AIHall 9, AI Stage Ai everythingDubai World Trade Centre
+Closing Remarks by MC
+
+
+SPEAKERS
+
+Jepson Taylor
+Chief AI Strategist
+United States of America
+Dataiku
+4:35 PM - 4:40 PM
+October 18, 2023 | 5 Minutes
+PAID
+Digital CitiesHall 25, Main Stage GITEX GlobalDubai World Trade Centre
+Closing Remarks
+
+
+4:35 PM - 4:50 PM
+October 18, 2023 | 15 Minutes
+UNPAID
+FBS - Block ProgrammeHall 8, Block Stage Future Blockchain SummitDubai Harbour
+WEB3 Powered Marketing | END OF DAY
+
+
+4:40 PM - 4:50 PM
+October 18, 2023 | 10 Minutes
+PAID
+Marketing ManiaHall 4, XMD Stage Marketing ManiaDubai Harbour
+Marketing Mania | Closing Remarks by Conference Host
+
+
+4:45 PM - 4:50 PM
+October 18, 2023 | 5 Minutes
+PAID
+EdtechHall 15, Orange Stage GITEX GlobalDubai World Trade Centre
+Closing Remarks
+
+
+SPEAKERS
+
+Steve Bambury
+Metaverse Consultant
+United Arab Emirates
+Lazudi
+4:45 PM - 5:00 PM
+October 18, 2023 | 15 Minutes
+UNPAID
+Fintech Surge - Elevate ProgramHall 7, The Elevate Stage Fintech SurgeDubai Harbour
+Workshop Day 2 | END OF DAY
+
+
+4:45 PM - 4:50 PM
+October 18, 2023 | 5 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Pycon MEA | Closing remarks
+
+
+4:50 PM - 5:00 PM
+October 18, 2023 | 10 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Winners announcements and prizes
+
+
+5:00 PM - 5:05 PM
+October 18, 2023 | 5 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+Closing Remark
+
+
+5:00 PM - 5:05 PM
+October 18, 2023 | 5 Minutes
+UNPAID
+Global Spotlight AgendaHall 3, Spotlight Stage Expand North StarDubai Harbour
+Global Spotlight | Closing Remarks by MC
+
+
+5:00 PM - 5:05 PM
+October 18, 2023 | 5 Minutes
+UNPAID
+Rising ProgramHall 9, Rising Stage Expand North StarDubai Harbour
+Rising Series | Closing Remarks by MC
+
+
+SPEAKERS
+
+Espree Devora
+Producer & Host
+United States of America
+Tech Podcasts @WeAreLATech
+6:00 PM - 6:00 PM
+October 18, 2023 | 0 Minutes
+PAID
+10X Expand North Star Main StageHall 9, 10x Stage Expand North StarDubai Harbour
+Ending on a High Note
+
+Event Closing

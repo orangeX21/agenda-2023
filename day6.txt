@@ -1,0 +1,672 @@
+
+
+
+
+RESET
+
+DAY
+1
+Sunday
+15 October
+DAY
+2
+Monday
+16 October
+DAY
+3
+Tuesday
+17 October
+DAY
+4
+Wednesday
+18 October
+DAY
+5
+Thursday
+19 October
+DAY
+6
+Friday
+20 October
+9:00 AM - 5:00 PM
+October 20, 2023 | 480 Minutes
+PAID
+Certified TrainingsHall 29, Workshop Room B Global DevslamDubai World Trade Centre
+Certified Metaverse Developer Course
+
+Course Methodology: Instructor-led – Onsite
+
+Course Objectives:
+• Know what it means to be a Metaverse Expert
+• Explore various technologies involved in Metaverse
+• Learn how you can get started with Metaverse
+• Explore different Use Cases of Metaverse
+
+Access Includes:
+3 days Certified Metaverse Expert Training +
+All Access Conference Pass Benefits + Parking
+
+Target Audience: Open to all. Designed for highly motivated
+attendees with little or no prior experience in programming.
+Certification/Exam: Certificate provided by Blockchain Council after the exam
+
+Course Outline/ Agenda:
+• Introduction to Metaverse
+• Technologies Involved In the Metaverse
+• Blockchain Adoption in Metaverse
+• Tools Required to Build Metaverse
+• 3D Model Development
+• Developing Web Based Metaverse
+• Hardware Integration
+• Use Cases
+
+Pre-requisites: No prior experience in programming required.
+
+Required Material:
+• Hardware - Bring in your own laptop (Mandatory)
+• Software – None
+9:00 AM - 5:00 PM
+October 20, 2023 | 480 Minutes
+PAID
+Certified TrainingsHall 29, Workshop Room C GITEX GlobalDubai World Trade Centre
+Cybersec First Responder Course
+
+Course Objectives:
+In this course, you will identify, assess, respond to, and
+protect against security threats and operate a system and network security
+analysis platform. You will:
+• Assess cybersecurity risks to the organization.
+• Analyze the threat landscape.
+• Analyze various reconnaissance threats to computing and network
+environments.
+• Analyze various attacks on computing and network environments.
+• Analyze various post-attack techniques.
+• Assess the organization's security posture through auditing,
+vulnerability management, and penetration testing.
+• Collect cybersecurity intelligence from various network-based and
+host-based sources
+• Analyze log data to reveal evidence of threats and incidents.
+• Perform active asset and network analysis to detect incidents.
+• Respond to cybersecurity incidents using containment, mitigation, and recovery
+tactics.
+• Investigate cybersecurity incidents using forensic analysis techniques.
+
+Course Outline/ Agenda:
+• Identifying the Need for Security in Your Software Projects
+• Handling Vulnerabilities
+• Designing for Security
+• Developing Secure Code
+• Implementing Common Protections
+• Implementing Common Protections
+• Maintaining Security in Deployed Software
+
+Target Audience:
+Individuals with between 3 and 5 years of experience working in a computing environment as part of a CERT/CSIRT/SOC who protect critical information systems before, during, and after an incident.
+
+Required Material:
+Hardware For this course, you will need one Microsoft® Windows Server® 2019 computer and one Microsoft® Windows® 10 computer for each student and for the instructor. Make sure that each computer meets the classroom hardware specifications: Windows Server 2019 2 gigahertz (GHz) 64-bit (x64) processor. 4 gigabytes (GB) of Random Access Memory (RAM). Windows 10 2 GHz 64-bit processor that supports the VT-x or AMD-V virtualization instruction set and Second Level Address Translation (SLAT). 8 GB of RAM. This client will host a Linux® virtual machine. Both Computers 80 GB storage device or larger. Monitor capable of a screen resolution of at least 1,024 × 768 pixels, at least a 256-color display, and a video adapter with at least 4 MB of memory. Bootable DVD-ROM or USB drive. Keyboard and mouse or a compatible pointing device. Fast Ethernet (100 Mb/s) adapter or faster and cabling to connect to the classroom network. IP addresses that do not conflict with other portions of your network. Internet access (contact your local network administrator). (Instructor computer only) A display system to project the instructor's computer screen. (Optional) A network printer for the class to share. Software Microsoft Windows Server 2019 Standard Edition with sufficient licenses. Microsoft Windows 10 Professional 64-bit with sufficient licenses. Windows Server 2019 and Windows 10 require activation unless you have volume-licensing agreements. There is a grace period for activation. If the duration of your class will exceed the activation grace period (for example, if you are teaching the class over the course of an academic semester), you should activate the installations at some point before the grace period expires. Otherwise, the operating systems may stop working before the class ends. If preferred, a third-party browser such as Google Chrome™ or Mozilla® Firefox®. If preferred, a third-party PDF reader such as Adobe® Acrobat® Reader. Kali Linux version 2021.2. The Kali Linux operating system is already installed on a VM that will be loaded in VirtualBox. Miscellaneous software that is not included in the course data files due to licensing restrictions: Java Runtime Environment (JRE) version 8u291 (JavaSetup8u291.exe). Npcap version 1.50 (npcap-1.50.exe). Process Explorer version 16.42 (procexp.exe). Splunk® Enterprise version 8.2.1 (splunk-8.2.1-ddff1c41e5cf-x64-release.msi). Log Parser version 2.2 (LogParser.msi). Log Parser Studio version 2.0 (LPSV2.D2.zip). Copyright 2021 CertNexus. All Rights Reserved The steps to download these tools are described in the course setup that follows. Note that the URL paths to these downloads may have changed after this course was written. The activities in this course were written to the versions of the
+software noted previously. If new versions of these tools have been released when you present this course, make sure to test them with their corresponding activities to note any keying discrepancies. Miscellaneous software that is included in the course data files: Oracle® VM VirtualBox version 6.1.16 (VirtualBox-6.1.16-140961-Win.exe). Wireshark version 3.4.6 (Wireshark-win64-3.4.6.exe). Snort® version 2.9.18 (Snort_2_9_18_Installer.x64.exe). icmpsh (icmpsh.zip). XAMPP version 7.3.28 (xampp-windows-x64-7.3.28-1-VC15-installer.exe). OpenSSH for Windows version 7.1 (setupssh-7.1p2-1.exe). PuTTY version 0.76 (putty.exe). LibreOffice Portable version 7.1.4 (LibreOfficePortable_7.1.4_MultilingualStandard.paf.exe). VirtualBox, Wireshark, Snort, and icmpsh are distributed with the course data files under version 2 of the GNU General Public License (GPL). XAMPP is distributed under version 3 of the GNU GPL. OpenSSH for Windows is distributed with the course data files under a Berkeley Software Distribution (BSD) license. PuTTY is distributed with the course data files under the MIT License. LibreOffice is distributed with the course data files under version 2 of the Mozilla Public License (MPL). If you prefer, you can install a version of Microsoft Office instead of using LibreOffice. If necessary, software for viewing the course slides (instructor machine only)
+
+Pre-requisites:
+To ensure your success in this course, you should meet the following requirements:
+• At least two years (recommended) of experience or education in computer network security technology or a related field.
+• The ability or curiosity to recognize information security vulnerabilities and threats in the context of risk management.
+• Foundational knowledge of the concepts and operational framework of common assurance safeguards in network environments. Safeguards include, but are not
+limited to, firewalls, intrusion prevention systems, and VPNs.
+• General knowledge of the concepts and operational framework of common assurance safeguards in computing environments. Safeguards include, but are not limited to, basic authentication and authorization, resource permissions, and anti-malware mechanisms.
+• Foundation-level skills with some of the common operating systems for computing environments.
+• Entry-level understanding of some of the common concepts for network environments, such as routing and switching.
+• General or practical knowledge of major TCP/IP networking protocols, including, but not limited to, TCP, IP, UDP, DNS, HTTP, ARP, ICMP, and DHCP
+10:30 AM - 11:30 AM
+October 20, 2023 | 60 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Infrastructure engineering using Pulumi
+
+Pulumi speeds up your inner dev loop for Infrastructure as Code (IaC) by allowing you to use an IDE giving you statement completion, real-time type checking, and interactive documentation out of the box. In addition you can leverage all of the capabilities of the programming language of your choice so you can reduce the total number of lines of code you’re writing.
+
+SPEAKERS
+
+Adora Nwodo
+VP Nigeria for AR/VR Association & Founder
+Nigeria
+NexaScale
+10:55 AM - 11:00 AM
+October 20, 2023 | 5 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | MC remarks
+
+
+SPEAKERS
+
+Ania Kubow
+Tech Influencer & Course Creator
+United Arab Emirates
+Freecodecamp.org
+11:00 AM - 11:10 AM
+October 20, 2023 | 10 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Opening remarks by MC
+
+
+11:00 AM - 1:00 PM
+October 20, 2023 | 120 Minutes
+PAID
+GITEX Impact - Planet LabsHall 28, Impact Workshop Room GITEX ImpactDubai World Trade Centre
+Driving Organisational ESG Ratings: Enhancing Transparency and Sustainability Practices Across Your Business
+
+ESG ratings have gained significant importance for businesses, as they provide valuable insights into a company's environmental, social, and governance performance. Participants will explore the internal and external factors that are considered in ESG ratings, including data disclosure, stakeholder engagement, risk management, and governance practices. Real-world examples of ESG ratings will be shared to showcase the impact of transparency and sustainability practices on improving ratings. Attendees will gain a deeper understanding of the benefits of enhancing transparency and sustainability practices and how they can drive organizational ESG ratings.
+
+11:00 AM - 1:00 PM
+October 20, 2023 | 120 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+WORKSHOP ONE: Hacking Workshop
+
+How-to Introduction to online/offline players
+There will be threat-hunting challenges from Easy to Difficult
+A ranking system to get the top 3 players
+
+SPEAKERS
+
+Hieu Minh Ngo
+Reformed Fraudster
+Vietnam
+Ethical Hacker
+
+Manh Pham
+Renowned
+Vietnam
+White Hat Hacker
+11:00 AM - 11:30 AM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Developing GenAI applications: tools and skills for success
+
+Join this session to learn how to utilize GenAI capabilities to build applications faster. This session will include a demo to showcase how to use an AI-powered code companion to help you effectively streamline tasks such as data preparation, visualization, model training and deployment. You will gain an understanding how to get started with GenAI quickly using pre-built solutions for common use cases and open-source models.
+SPEAKERS
+
+Viktoria Semaan
+Developer Advocate
+United States of America
+AWS
+11:00 AM - 11:15 AM
+October 20, 2023 | 15 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+VIP Address
+
+
+11:00 AM - 12:30 PM
+October 20, 2023 | 90 Minutes
+UNPAID
+Impact BoardroomHall 28, Impact Boardroom GITEX ImpactDubai World Trade Centre
+Sustainability Obligations for Finance Leaders: The Road to 2030 (By Invitation Only)
+
+Chief Financial Officers (CFOs) have a pivotal role to play in driving sustainability within organizations. This session will explore sustainability reporting frameworks and discuss how CFOs can enable cross-divisional cooperation and foster a transparency mindset. Attendees will gain insights into leveraging environmental, social, and governance (ESG) data for making informed financial decisions. The session will also address how CFOs can influence boards to prioritize sustainability in corporate decisions and goals.
+
+11:10 AM - 11:25 AM
+October 20, 2023 | 15 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Transitioning from Risk Management to Opportunity Creation through Sustainable Finance
+
+- Key drivers for mainstreaming sustainable finance and enabling adoption
+- Incentivising leadership and investment in sustainable finance
+- Implications of sustainability risk and opportunities for credit risk assessment and pricing, investment decision-making and portfolio management
+SPEAKERS
+
+Daniel Hanna
+Global Head of Sustainable Banking
+United Kingdom
+Barclays
+11:15 AM - 12:00 PM
+October 20, 2023 | 45 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Youth Circle - Ministry of Energy and DEWA
+
+The future of sustainable energy, electricity and water
+11:25 AM - 11:55 AM
+October 20, 2023 | 30 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Mobilising USD 1tn green, sustainable and transition finance by 2030
+
+- Key drivers for mainstreaming sustainable finance and investments and enabling adoption across industries
+- Accelerating innovative carbon-efficient technologies and next-generation supply-chain solutions
+- Enabling equity investments in breakthrough sustainability technologies across new markets
+SPEAKERS
+
+Ben Potter
+SVP, Strategy, Corporate Development & Investor Relations
+United Kingdom
+Energy Dome
+
+Christopher Jackson
+CEO
+United Kingdom
+Protium
+
+Daniel Hanna
+Global Head of Sustainable Banking
+United Kingdom
+Barclays
+
+Paolo Tedone
+Director, Offshore and EU
+Italy
+ECONCrete
+11:30 AM - 12:30 PM
+October 20, 2023 | 60 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Angular Workshop - Zero to Hero
+
+Have you always wanted to learn Angular? Are you looking to improve your Angular knowledge and learn from basics to advanced Angular? What if we told you that you could create a multi-user app with real-time communication in this workshop? Sounds exciting? Then your laptops ready. In this workshop, we will walk you through how you can create your first Angular Application. We’re going to use Angular, AngularFire, Firebase and a bunch of cool techniques to build a production-ready web application that you can show off to your friends and colleagues.
+You will learn about the following:
+Angular CLI
+Creating your first Angular Application
+Standalone Components
+Signal Based Components
+Working with Google’s Cloud Firestore
+Making API calls in Angular
+Angular Routing
+
+SPEAKERS
+
+Muhammad Ahsan Ayaz
+Software Architect & Head Instructor
+Sweden
+School of Applied Technology
+
+Santosh Yadav
+Sr. Software Engineer
+Germany
+Celonis
+11:30 AM - 12:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Internationalization in Angular
+
+We will learn how to make an Angular app available in different languages using Internationalization(i18n). The talk will include a code demo which will help the audience to understand the concepts in a better manner.
+
+SPEAKERS
+
+Ankit Sharma
+Software Engineer
+India
+CISCO
+11:55 AM - 12:10 PM
+October 20, 2023 | 15 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Unlocking Billion-dollar Green Financing Opportunities: Evolving Role Of Central Banks And Monetary Authorities
+
+- What are the sustainability-related challenges facing central banks and monetary authorities in 2023?
+- How have the Basel Accords evolved since 1988 to align with climate-change and sustainability?
+- How is ESG being integrated across monetary policy frameworks for sustainable economic prosperity?
+- What is the role of central banks in fostering the transition into low-carbon economies by 2030?
+SPEAKERS
+
+Bassem Kamar
+Chief Economist
+United Arab Emirates
+Central Bank of the UAE
+12:00 PM - 12:30 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | The open-source movement powering generative AI
+
+Since its open-source release, the Stable Diffusion model, and related algorithms such as Dreambooth and LoRa, have been used by hundreds of developers to create new generative AI models and applications. Beyond creating better AI models for specific themes, styles, and subjects, the open-source community has implemented innovative techniques that reduce the inference time and hardware requirements for running these models. Just as importantly, these developers have also created countless blog posts, video tutorials, and web apps that make it easier than ever for others to get started.
+In this talk, we will discuss the impact of the open-source movement on the field of AI-generated images and explore some of the most exciting projects within the community, made possible by models like Stable Diffusion. We will also highlight some of the challenges and opportunities facing the community as it continues to evolve and grow in the coming years.
+
+SPEAKERS
+
+Swee Kiat Lim
+Co-founder and CEO
+Singapore
+Pebblely
+12:00 PM - 1:00 PM
+October 20, 2023 | 60 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Meet your Urban Leaders – Face-to-Face Discussion
+
+An opportunity for Students to interact with global Urban architects and designers
+SPEAKERS
+
+Dami Lee
+Influencer
+United States of America
+Architecture
+12:10 PM - 12:50 PM
+October 19, 2023 | 1400 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Leveraging Debt Capital For Sustainability: Future Prospects For The USD 2.1 Trillion Global Green Bonds Market
+
+- Transparency in green bonds: Strategies to effectively identify and direct funds to green projects and assess the use of proceeds (UoP)
+- Green sukuk: How can bond issuers leverage Islamic financing for sustainability and how has it progressed since 2017?
+- What is the significance of transition bonds in driving the clean energy transition by 2030?
+SPEAKERS
+
+Aymeric Arnaud
+Chief Region Officer - Middle East, Türkiye/CIS, Africa (META)
+United Arab Emirates
+Société Générale
+
+Jarek Olszowka
+Managing Director and Head of Sustainable Finance
+United Kingdom
+Nomura
+
+Mohammed Hedi Mejai
+Director and Head of Investments
+Saudi Arabia
+Islamic Development Bank
+
+Nadia Boumeziout
+Head of Sustainability and Information Governance
+United Arab Emirates
+Zurich Insurance
+
+Sean Kidney
+CEO and Co-Founder
+United Kingdom
+Climate Bonds Initiative
+12:30 PM - 1:30 PM
+October 20, 2023 | 60 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Infrastructure engineering using Azure Bicep
+
+Bicep is a language for declaratively deploying Azure resources. You can use Bicep instead of JSON for developing your Azure Resource Manager templates (ARM templates).
+
+SPEAKERS
+
+Adora Nwodo
+VP Nigeria for AR/VR Association & Founder
+Nigeria
+NexaScale
+12:30 PM - 1:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | The future of web development
+
+From the adoption of progressive web apps (PWA) to project Fugu and the increasing importance of mobile optimization to the rise of front-end frameworks and the growing focus on accessibility and inclusivity, we will examine the key factors driving the evolution of web development in the present era. Whether you are a seasoned web developer, decision maker, a tech enthusiast, or someone simply curious about the future of the digital realm, this session promises to provide valuable insights and ignite stimulating discussions.
+
+SPEAKERS
+
+Aliaksei Kuncevic
+Founder
+Australia
+Angular Consulting
+12:50 PM - 1:30 PM
+October 20, 2023 | 40 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | From Sustainability Pledges to Actions Through Standards: The Intersection of ESG and Financial Reporting
+
+- Current gaps in ESG data and metrics
+- How can CFOs and accounting leaders move beyond compliance-based reporting to deliver integrated information on corporate ESG performance?
+- Ethical implications of not incorporating ESG information into financial reporting
+- ESG reporting vs Greenwashing
+SPEAKERS
+
+Ahmad Almeghames
+CEO
+Saudi Arabia
+Saudi Organization for Chartered and Professional Accountants (SOCPA)
+
+David Madon
+Director - Sustainability Policy & Regulation
+United States of America
+International Federation of Accountants (IFAC)
+
+Jigar Shah
+Head of Sustainability Research
+India
+Maybank Investment Banking Group
+
+Mardi McBrien
+Chief of Strategic Affairs & Capacity Building
+United Kingdom
+IFRS Foundation
+
+Yasir Ahmad
+Partner
+United Arab Emirates
+EY - UAE
+1:00 PM - 3:00 PM
+October 20, 2023 | 120 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+WORKSHOP TWO
+
+
+1:00 PM - 1:30 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Embarking on DevOps & Agile Transformation: The Road Towards Digital Excellence
+
+This presentation will equip attendees with the knowledge and tools necessary to embark on a successful DevOps and Agile transformation journey. By embracing these methodologies, organizations can enhance their competitiveness, adapt to changing market demands, and drive innovation. Attendees will leave with a clear understanding of the steps, challenges, and best practices involved in initiating and sustaining a DevOps and Agile transformation in their respective organizations
+1:00 PM - 2:00 PM
+October 20, 2023 | 60 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+MUN Final
+
+Final talks and presentations of the best draft resolutions from our pre-engagement activity, the Model United Nations
+1:30 PM - 2:30 PM
+October 20, 2023 | 60 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Exploring open-source variants of Stable Diffusion
+
+Stable Diffusion is a powerful open-source model that has been widely adopted in the generative AI community. Its flexibility and versatility have enabled developers to finetune it for a huge variety of themes, styles, and subjects. This workshop will explore different open-source projects that build on top of Stable Diffusion, and how they can be used to achieve different results. Participants in this workshop will have the opportunity to learn about the different variants of Stable Diffusion that have been developed by the community. They will also have the chance to experiment with these variants and pick up practical tips for training and using these models themselves.
+
+SPEAKERS
+
+Swee Kiat Lim
+Co-founder and CEO
+Singapore
+Pebblely
+1:30 PM - 2:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Optimizing Angular apps like a Pro
+
+Performance is very critical for many organizations using Angular. While it comes with tons of optimizations out of the box, it is still possible to optimize Angular apps further based on specific use cases. If you have worked with a medium-large scale application with Angular, you may have noticed that as your application grows and you have thousands of components in your app, the performance of the web app starts to become a concern. There could be many reasons why that could happen. And we’re going to explore a bunch of those, with potential strategies. If you want to know the secret sauce to improve your Angular Applications, then join our talk, where you will learn how to write better-performing Angular Apps or improve the performance of your existing Angular App.
+What you will learn:
+State Management
+Change Detection Strategy
+Lazy loading
+Signals
+Modulesess Apps
+Angular Secondary Entrypoint
+Module Bundle Analyzer
+Virtual Lists
+Precaching with Service Workers
+
+SPEAKERS
+
+Muhammad Ahsan Ayaz
+Software Architect & Head Instructor
+Sweden
+School of Applied Technology
+
+Santosh Yadav
+Sr. Software Engineer
+Germany
+Celonis
+1:30 PM - 2:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Navigating The Complexity Of ESG Integration: A Cross-Asset Class Perspective
+
+- How do ESG factors vary across asset classes and how can this impact investment decision-making?
+- ESG and financial modelling: Balancing asset allocations
+- Role of technology in improving ESG integration
+- How can investors manage varying notions of ESG materiality across asset classes? What are the legal, and ethical considerations?
+
+SPEAKERS
+
+Alexander Perjessy
+Vice President, Sovereign Risk Group
+United Arab Emirates
+Moody's Investor Services
+
+Jelena Janjusevic
+Associate Professor, Programme Director for MSC Finance and Management
+United Arab Emirates
+Heriot-Watt University Dubai
+
+Michael Salvatico
+Head of Asia Pacific ESG Business Development
+Australia
+S&P Global Sustainable 1
+
+Mike Coffin
+Head of Oil & Gas
+United Kingdom
+Carbon Tracker
+
+Rebekah Earp
+ESG Director, Asia
+Hong Kong Special Administrative Region
+CVC
+
+Richard Amor
+Head of Corporate Lending
+Luxembourg
+European Investment Bank (EIB)
+2:00 PM - 2:30 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Scaling Your Platform: Best Practices for Cloud-Based Platform Engineering
+
+Scaling may be challenging, especially in the context of cloud computing, where resources are constantly provisioned and scaled in response to demand. The talk will address issues such as scalability design, choosing a technology stack for your cloud infrastructure, auto-scaling rules, performance monitoring and analysis. The session will also look at various scaling strategies for various platform types, including monolithic and micro-service architectures. At the end of this talk, you'll have a firm grasp of the fundamental ideas and recommended practices for scaling your application on the cloud, which will help make your application more reliable.
+Open for sponsors
+2:00 PM - 2:05 PM
+October 20, 2023 | 5 Minutes
+PAID
+GITEX Impact (Sustainability)Hall 27, Impact Stage GITEX ImpactDubai World Trade Centre
+Global Sustainable Investment Forum | Closing remarks by MC
+
+
+2:00 PM - 2:30 PM
+October 20, 2023 | 30 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+Q&A Session with the COP28 team
+
+Opportunities for youth at COP28
+2:30 PM - 3:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Trends and Innovations for Cloud-Native Application Development
+
+Application development and deployment practices are changing as a result of the birth of cloud-native engineering. This session will examine the most recent developments and trends in platform engineering and cloud-native application development. We'll look at frameworks, tools, and best practices influencing the development of cloud-native technologies. We will go through the best practices for designing, developing, and deploying cloud-optimized apps that benefit from cloud-native features like scalability, agility, and resilience. By the end of this talk, you'll have learned about the most recent advancements in cloud-native application development, and you'll be better prepared to use these technologies to create and deploy cloud-native applications.
+
+SPEAKERS
+
+Adora Nwodo
+VP Nigeria for AR/VR Association & Founder
+Nigeria
+NexaScale
+2:30 PM - 3:30 PM
+October 20, 2023 | 60 Minutes
+PAID
+Global DevSlam WorkshopHall 26, Dev D Global DevslamDubai World Trade Centre
+Developing code for metaverse experiences
+
+Developing code for metaverse experiences
+
+SPEAKERS
+
+Zaid Zaim
+Spatial Computing Expert | Microsoft MVP
+Germany
+Ignore Gravity GmbH
+2:30 PM - 3:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+Future UrbanismHall 30, Green Stage Future UrbanismDubai World Trade Centre
+YouthX Unipreneur Awards & Closing Ceremony
+
+
+3:00 PM - 3:30 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Leveraging Serverless to Gain Velocity for Your Applications
+
+You’ve decided to move to the Cloud Native ecosystem. You have multiple options and, frankly, are overwhelmed by them. Your goal is to gain the promise of velocity that Cloud Native and containers offer you, but you aren’t sure where to start. You see things like Kubernetes, Serverless, Containers, and Functions, but know you need to understand these things before even touching your Applications.
+In this talk, I’ll walk you through the Cloud Native ecosystem so you are aware of what options do exist, but then I’ll show the advantage of leveraging Code-Engine, a Serverless and Functions platform. This will give you a path to get closer to this promise of Containers and Cloud Native without dealing with the overhead of many other portions of the Cloud Native Ecosystem. I’ll start with a simple local application and deploy it to a vanilla Kubernetes cluster (or docker-compose VM), which is the typical first production step for someone on this journey. After understanding the complexities, I’ll take that same application to Code-Engine, showing the advantage of this unified platform, gaining the “focus on what makes your company money instead of infrastructure” modern-day challenge.
+There are many different options in this space, but if you take this simple journey with me, you’ll learn that it’s not as complex as it seems, and if you take my advice, you’ll have an opportunity to gain that velocity you want.
+SPEAKERS
+
+JJ Ashgar
+Developer Advocate
+United States of America
+IBM
+3:00 PM - 5:00 PM
+October 20, 2023 | 120 Minutes
+PAID
+CybersecurityHall 23, Dark Stage GITEX GlobalDubai World Trade Centre
+WORKSHOP THREE: CyberSAFE Workshop
+
+The cost of security incidents is high. It costs organizations financially but can also hurt in damage the company’s reputation, The CyberSAFE workshop empowers team members at every level to protect devices and introduces them to basic cyber-attacks and how to respond and operate safely to protect themselves and their organization.
+SPEAKERS
+
+Fawad Laiq
+Technical Manager
+United Arab Emirates
+EMT Distribution MEA
+3:30 PM - 4:00 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Designing the Data Mesh and MLOps eco system for a scaling organisation
+
+
+SPEAKERS
+
+Sanchit Juneja
+Director - Big Data & ML
+Netherlands
+Booking.com
+4:00 PM - 4:30 PM
+October 20, 2023 | 30 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Coding a Drone Using {Unity 3D .NET} and ChatGPT AI - Flight Simulation with VisionPro ^ HoloLens 2
+
+In this session, we delve into the integration of ChatGPT AI with drone programming to create a more interactive and dynamic control system for the Tello drone, while also improving the productivity and effectiveness of programmers. We will explore the foundations of using Unity 3D and .NET for programming, with a focus on networking and developing a UDP Client and Server that facilitates communication with the drone. This enables us to modify and refine the drone's behavior through AI-generated messages and commands.
+By leveraging ChatGPT AI, programmers can streamline their development process and receive suggestions or insights that enhance their decision-making and problem-solving abilities. This AI-driven support results in more efficient and productive development cycles.
+We will also discuss the significance of AI and ChatGPT in expanding the capabilities of mixed-reality experiences. By incorporating MRTK (Mixed Reality Toolkit), attendees will gain insight into the mixed reality spectrum and learn valuable tips and tricks for entering this domain. MRTK serves as a versatile tool that simplifies the transition to AR/VR/MR development by offering an advanced volumetric UX/UI system and predefined components for cross-platform projects.
+The session will culminate in a live demo or video presentation of the drone flying across multiple XR devices, showcasing the potential of AI-driven drone control systems in mixed-reality environments. The specific XR devices featured will be unveiled at the beginning of the session.
+SPEAKERS
+
+Zaid Zaim
+Spatial Computing Expert | Microsoft MVP
+Germany
+Ignore Gravity GmbH
+4:30 PM - 4:35 PM
+October 20, 2023 | 5 Minutes
+PAID
+Global DevslamHall 26, DevSlam Stage Global DevslamDubai World Trade Centre
+Devops & Java Talks, Cloud Kubernetes | Closing remarks
+
